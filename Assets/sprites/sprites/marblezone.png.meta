@@ -1,0 +1,4597 @@
+fileFormatVersion: 2
+guid: 7d681ccbc50beac48942de31be866012
+timeCreated: 1513369435
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: marblezone_0
+    21300002: marblezone_1
+    21300004: marblezone_2
+    21300006: marblezone_3
+    21300008: marblezone_4
+    21300010: marblezone_5
+    21300012: marblezone_6
+    21300014: marblezone_7
+    21300016: marblezone_8
+    21300018: marblezone_9
+    21300020: marblezone_10
+    21300022: marblezone_11
+    21300024: marblezone_12
+    21300026: marblezone_13
+    21300028: marblezone_14
+    21300030: marblezone_15
+    21300032: marblezone_16
+    21300034: marblezone_17
+    21300036: marblezone_18
+    21300038: marblezone_19
+    21300040: marblezone_20
+    21300042: marblezone_21
+    21300044: marblezone_22
+    21300046: marblezone_23
+    21300048: marblezone_24
+    21300050: marblezone_25
+    21300052: marblezone_26
+    21300054: marblezone_27
+    21300056: marblezone_28
+    21300058: marblezone_29
+    21300060: marblezone_30
+    21300062: marblezone_31
+    21300064: marblezone_32
+    21300066: marblezone_33
+    21300068: marblezone_34
+    21300070: marblezone_35
+    21300072: marblezone_36
+    21300074: marblezone_37
+    21300076: marblezone_38
+    21300078: marblezone_39
+    21300080: marblezone_40
+    21300082: marblezone_41
+    21300084: marblezone_42
+    21300086: marblezone_43
+    21300088: marblezone_44
+    21300090: marblezone_45
+    21300092: marblezone_46
+    21300094: marblezone_47
+    21300096: marblezone_48
+    21300098: marblezone_49
+    21300100: marblezone_50
+    21300102: marblezone_51
+    21300104: marblezone_52
+    21300106: marblezone_53
+    21300108: marblezone_54
+    21300110: marblezone_55
+    21300112: marblezone_56
+    21300114: marblezone_57
+    21300116: marblezone_58
+    21300118: marblezone_59
+    21300120: marblezone_60
+    21300122: marblezone_61
+    21300124: marblezone_62
+    21300126: marblezone_63
+    21300128: marblezone_64
+    21300130: marblezone_65
+    21300132: marblezone_66
+    21300134: marblezone_67
+    21300136: marblezone_68
+    21300138: marblezone_69
+    21300140: marblezone_70
+    21300142: marblezone_71
+    21300144: marblezone_72
+    21300146: marblezone_73
+    21300148: marblezone_74
+    21300150: marblezone_75
+    21300152: marblezone_76
+    21300154: marblezone_77
+    21300156: marblezone_78
+    21300158: marblezone_79
+    21300160: marblezone_80
+    21300162: marblezone_81
+    21300164: marblezone_82
+    21300166: marblezone_83
+    21300168: marblezone_84
+    21300170: marblezone_85
+    21300172: marblezone_86
+    21300174: marblezone_87
+    21300176: marblezone_88
+    21300178: marblezone_89
+    21300180: marblezone_90
+    21300182: marblezone_91
+    21300184: marblezone_92
+    21300186: marblezone_93
+    21300188: marblezone_94
+    21300190: marblezone_95
+    21300192: marblezone_96
+    21300194: marblezone_97
+    21300196: marblezone_98
+    21300198: marblezone_99
+    21300200: marblezone_100
+    21300202: marblezone_101
+    21300204: marblezone_102
+    21300206: marblezone_103
+    21300208: marblezone_104
+    21300210: marblezone_105
+    21300212: marblezone_106
+    21300214: marblezone_107
+    21300216: marblezone_108
+    21300218: marblezone_109
+    21300220: marblezone_110
+    21300222: marblezone_111
+    21300224: marblezone_112
+    21300226: marblezone_113
+    21300228: marblezone_114
+    21300230: marblezone_115
+    21300232: marblezone_116
+    21300234: marblezone_117
+    21300236: marblezone_118
+    21300238: marblezone_119
+    21300240: marblezone_120
+    21300242: marblezone_121
+    21300244: marblezone_122
+    21300246: marblezone_123
+    21300248: marblezone_124
+    21300250: marblezone_125
+    21300252: marblezone_126
+    21300254: marblezone_127
+    21300256: marblezone_128
+    21300258: marblezone_129
+    21300260: marblezone_130
+    21300262: marblezone_131
+    21300264: marblezone_132
+    21300266: marblezone_133
+    21300268: marblezone_134
+    21300270: marblezone_135
+    21300272: marblezone_136
+    21300274: marblezone_137
+    21300276: marblezone_138
+    21300278: marblezone_139
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marblezone_0
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3711
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.4563727, y: 129.5}
+        - {x: -128.5, y: -47.63669}
+        - {x: -128.5, y: -128.84518}
+        - {x: 128.5, y: -128.84518}
+        - {x: 128.5, y: 129.5}
+      physicsShape:
+      - - {x: -39.375835, y: 129.5}
+        - {x: -128.5, y: 75.27347}
+        - {x: -128.5, y: -128.84518}
+        - {x: 125.22148, y: -128.84518}
+        - {x: 128.5, y: -124.455536}
+        - {x: 128.5, y: 129.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_1
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 4232
+        width: 259
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.5, y: 130.5}
+        - {x: -129.5, y: -130.5}
+        - {x: 129.5, y: -130.5}
+        - {x: 129.5, y: 130.5}
+      physicsShape:
+      - - {x: -129.5, y: 127.67865}
+        - {x: -129.5, y: -130.5}
+        - {x: 129.5, y: -130.5}
+        - {x: 129.5, y: 125.483826}
+        - {x: 126.352356, y: 129.87347}
+        - {x: -128.22484, y: 129.87347}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_6
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3413
+        width: 259
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.5, y: 17.5}
+        - {x: -129.5, y: -17.5}
+        - {x: 129.5, y: -17.5}
+        - {x: 129.5, y: 17.5}
+      physicsShape:
+      - - {x: 129.5, y: -17.5}
+        - {x: 129.5, y: 17.5}
+        - {x: -129.5, y: 17.5}
+        - {x: -129.5, y: -17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_7
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3189
+        width: 132
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 17.5}
+        - {x: -66, y: -16.540754}
+        - {x: 66, y: -16.540754}
+        - {x: 66, y: 17.5}
+      physicsShape:
+      - - {x: -64.580536, y: 17.5}
+        - {x: -66, y: 17.5}
+        - {x: -66, y: -14.345931}
+        - {x: -64.580536, y: -16.540754}
+        - {x: 62.708057, y: -16.540754}
+        - {x: 66, y: -12.151107}
+        - {x: 66, y: 17.5}
+        - {x: 64.90269, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2928
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.849, y: 9.981199}
+        - {x: 75.87584, y: 12.1760235}
+        - {x: 64.90269, y: 7.786375}
+        - {x: 93.43289, y: 25.344969}
+        - {x: 128.54698, y: 25.344969}
+        - {x: 129.5, y: 27.539793}
+        - {x: 129.5, y: 129.5}
+        - {x: -129.5, y: 129.5}
+        - {x: -129.5, y: 25.344969}
+        - {x: -95.305374, y: 25.344969}
+        - {x: -90.91611, y: 29.734617}
+        - {x: -129.5, y: -36.11011}
+        - {x: -129.5, y: -129.5}
+        - {x: 129.5, y: -129.5}
+        - {x: 129.5, y: -58.058353}
+        - {x: 102.21141, y: -0.99292225}
+      - - {x: -31.661074, y: 56.07251}
+        - {x: -27.271812, y: 64.85181}
+        - {x: -29.466442, y: 67.04663}
+        - {x: -27.271812, y: 64.85181}
+      physicsShape:
+      - - {x: -129.5, y: 129.5}
+        - {x: -129.5, y: -129.5}
+        - {x: 129.5, y: -129.5}
+        - {x: 129.5, y: 129.5}
+      - - {x: -31.661074, y: 56.07251}
+        - {x: -18.493288, y: 71.43628}
+        - {x: 29.788591, y: 58.267334}
+        - {x: 34.177853, y: -49.279057}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_11
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2667
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.88927, y: -129.5}
+        - {x: -104.08389, y: -123.71902}
+        - {x: -117.25168, y: -123.71902}
+        - {x: -119.44631, y: -129.5}
+      - - {x: -130.41946, y: 129.5}
+        - {x: -130.41946, y: -112.744896}
+        - {x: -119.44631, y: -129.5}
+        - {x: 130.5, y: -129.5}
+        - {x: 130.5, y: 129.5}
+      - - {x: 38.567116, y: -129.5}
+        - {x: 36.372486, y: -123.71902}
+        - {x: 23.204699, y: -123.71902}
+        - {x: 21.010069, y: -129.5}
+      - - {x: 95.62752, y: 71.620346}
+        - {x: 95.62752, y: -77.62771}
+      physicsShape:
+      - - {x: -130.41946, y: 129.5}
+        - {x: -130.41946, y: -112.744896}
+        - {x: -88.72148, y: -129.5}
+        - {x: 130.5, y: -129.5}
+        - {x: 130.5, y: 129.5}
+      - - {x: 97.82215, y: -86.407005}
+        - {x: 93.43289, y: -82.01736}
+        - {x: 95.62752, y: 76.009995}
+        - {x: 95.62752, y: 82.59447}
+        - {x: 95.62752, y: 76.009995}
+        - {x: 97.82215, y: -82.01736}
+        - {x: 93.43289, y: -86.407005}
+        - {x: 95.62752, y: -90.79665}
+        - {x: 97.82215, y: -88.60183}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2566
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.114094, y: 49.5}
+        - {x: -33.114094, y: -49.5}
+        - {x: 34, y: -49.5}
+        - {x: 34, y: 49.5}
+      physicsShape:
+      - - {x: -30.919464, y: 49.5}
+        - {x: -30.919464, y: -49.5}
+        - {x: 34, y: -49.5}
+        - {x: 34, y: 49.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2566
+        width: 35
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 49.5}
+        - {x: -17.5, y: -49.5}
+        - {x: 17.5, y: -49.5}
+        - {x: 17.5, y: 49.5}
+      physicsShape:
+      - - {x: -16.21812, y: 49.5}
+        - {x: -17.5, y: 48.536644}
+        - {x: -17.5, y: -48.035625}
+        - {x: -16.21812, y: -49.5}
+        - {x: 16.701344, y: -49.5}
+        - {x: 17.5, y: -48.035625}
+        - {x: 17.5, y: 46.34182}
+        - {x: 14.506713, y: 49.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 971
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.23157, y: 63}
+        - {x: -65.23157, y: -62.762207}
+        - {x: 66, y: -62.762207}
+        - {x: 66, y: 63}
+      physicsShape:
+      - - {x: -63.036934, y: 63}
+        - {x: -65.23157, y: 62.342777}
+        - {x: -65.23157, y: -62.762207}
+        - {x: 66, y: -62.762207}
+        - {x: 66, y: 63}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_18
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 970
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 63.5}
+        - {x: -65, y: -34.132103}
+        - {x: -62.90938, y: -36.326927}
+        - {x: -34.37918, y: -62.664818}
+        - {x: 65, y: -62.664818}
+        - {x: 65, y: 63.5}
+      physicsShape:
+      - - {x: -65, y: 63.5}
+        - {x: -65, y: -58.27517}
+        - {x: -47.546967, y: -62.664818}
+        - {x: 65, y: -62.664818}
+        - {x: 65, y: 63.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_19
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 966
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.0134735, y: 65.5}
+        - {x: -65.87925, y: 39.784138}
+        - {x: -65.87925, y: -65.5}
+        - {x: 66, y: -65.5}
+        - {x: 66, y: 65.5}
+      physicsShape:
+      - - {x: -65.87925, y: -63.372604}
+        - {x: -63.684616, y: -65.5}
+        - {x: 66, y: -65.5}
+        - {x: 66, y: 65.5}
+        - {x: -15.402736, y: 65.5}
+        - {x: -65.87925, y: 50.75826}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_21
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 834
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 35}
+        - {x: -65, y: -34.052998}
+        - {x: 65, y: -34.052998}
+        - {x: 65, y: 35}
+      physicsShape:
+      - - {x: -62.90938, y: 35}
+        - {x: -65, y: 35}
+        - {x: -65, y: -34.052998}
+        - {x: 65, y: -34.052998}
+        - {x: 65, y: 35}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_22
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 843
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.473194, y: 22}
+        - {x: -16.473194, y: -22}
+        - {x: 17.5, y: -22}
+        - {x: 17.5, y: 22}
+      physicsShape:
+      - - {x: -12.083932, y: 16.64866}
+        - {x: -16.473194, y: 12.259012}
+        - {x: -16.473194, y: -18.468527}
+        - {x: -12.083932, y: -22}
+        - {x: 17.5, y: -22}
+        - {x: 17.5, y: -20.663351}
+        - {x: 17.5, y: 14.453836}
+        - {x: 17.5, y: 16.64866}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 639
+        width: 162
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.21141, y: 71}
+        - {x: -81, y: 54.079296}
+        - {x: -81, y: -71}
+        - {x: 81, y: -71}
+        - {x: 81, y: 51.88447}
+        - {x: 58.573826, y: 71}
+      - - {x: -7.265102, y: -5.1809587}
+        - {x: -16.043625, y: 3.5983384}
+        - {x: -27.01678, y: 1.403514}
+        - {x: 16.875837, y: 1.403514}
+        - {x: 14.681207, y: 3.5983384}
+        - {x: 8.097315, y: -2.9861345}
+        - {x: 1.5134217, y: -2.9861345}
+      physicsShape:
+      - - {x: -51.15772, y: 69.44307}
+        - {x: -81, y: 51.88447}
+        - {x: -81, y: -71}
+        - {x: 81, y: -71}
+        - {x: 81, y: 51.88447}
+        - {x: 23.45973, y: 69.44307}
+      - - {x: -9.459733, y: -22.739553}
+        - {x: -16.043625, y: -16.15508}
+        - {x: -20.432888, y: -18.349905}
+        - {x: -18.238256, y: -20.54473}
+        - {x: -11.654364, y: -13.960256}
+        - {x: -7.265102, y: -5.1809587}
+        - {x: 1.5134217, y: -20.54473}
+        - {x: 8.097315, y: -27.129202}
+        - {x: 10.291945, y: -27.129202}
+        - {x: 10.291945, y: -24.934378}
+        - {x: -11.654364, y: -27.129202}
+        - {x: -9.459733, y: -24.934378}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 645
+        width: 166
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.657722, y: 66}
+        - {x: -82.966446, y: 41.42329}
+        - {x: -82.966446, y: 4.1112766}
+        - {x: -76.38255, y: -35.39556}
+        - {x: -71.99329, y: -66}
+        - {x: 75.046974, y: -66}
+        - {x: 83, y: -15.642142}
+        - {x: 83, y: 54.592236}
+        - {x: 28.959728, y: 66}
+      - - {x: 17.986574, y: 1.9164524}
+        - {x: 15.791943, y: 4.1112766}
+        - {x: 11.402681, y: -0.27837187}
+        - {x: 4.818788, y: -0.27837187}
+        - {x: -1.7651047, y: -6.862845}
+      physicsShape:
+      - - {x: -52.241615, y: 66}
+        - {x: -82.966446, y: 50.202587}
+        - {x: -82.966446, y: -55.14898}
+        - {x: -80.77182, y: -63.928276}
+        - {x: 68.46308, y: -63.928276}
+        - {x: 83, y: -15.642142}
+        - {x: 83, y: 50.202587}
+        - {x: 22.375835, y: 66}
+      - - {x: -10.543629, y: -22.226614}
+        - {x: -17.127522, y: -15.642142}
+        - {x: -21.516783, y: -17.836966}
+        - {x: -17.127522, y: -20.03179}
+        - {x: -10.543629, y: -13.447318}
+        - {x: -6.1543665, y: -4.6680202}
+        - {x: 2.6241572, y: -20.03179}
+        - {x: 9.20805, y: -26.616262}
+        - {x: 9.20805, y: -24.421438}
+        - {x: -10.543629, y: -24.421438}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 639
+        width: 226
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.78525, y: 93}
+        - {x: -113, y: 84.80684}
+        - {x: -113, y: -92.97393}
+        - {x: 113, y: -92.97393}
+        - {x: 113, y: 82.612015}
+        - {x: 96.81207, y: 93}
+      - - {x: -15.114107, y: -35.9085}
+        - {x: 6.832202, y: -5.1809587}
+        - {x: 6.832202, y: 5.793163}
+        - {x: -15.114107, y: 27.741405}
+        - {x: -26.087261, y: 27.741405}
+        - {x: -34.865788, y: 18.962109}
+        - {x: -32.671154, y: 18.962109}
+        - {x: -32.671154, y: 25.546581}
+        - {x: 30.973143, y: 25.546581}
+        - {x: 22.194618, y: 21.156933}
+        - {x: 15.610725, y: 14.57246}
+        - {x: 6.832202, y: 3.5983384}
+        - {x: 6.832202, y: -5.1809587}
+        - {x: 17.805357, y: -24.934378}
+        - {x: 6.832202, y: -42.492973}
+        - {x: -1.9463217, y: -51.27227}
+        - {x: 0.24830915, y: -51.27227}
+      physicsShape:
+      - - {x: -96.31545, y: 93}
+        - {x: -113, y: 80.41719}
+        - {x: -113, y: -92.97393}
+        - {x: 113, y: -92.97393}
+        - {x: 113, y: 82.612015}
+        - {x: 66.087234, y: 93}
+      - - {x: -61.201355, y: -40.29815}
+        - {x: -63.39599, y: -42.492973}
+        - {x: -56.812096, y: -49.077446}
+        - {x: -52.422832, y: -46.88262}
+        - {x: -54.617462, y: -44.687798}
+        - {x: -63.39599, y: -53.467094}
+        - {x: -61.201355, y: -55.66192}
+        - {x: -59.006725, y: -53.467094}
+      - - {x: -26.087261, y: -29.324026}
+        - {x: -32.671154, y: -22.739553}
+        - {x: -34.865788, y: -22.739553}
+        - {x: -34.865788, y: -24.934378}
+        - {x: -17.308739, y: -24.934378}
+        - {x: -8.530214, y: -20.54473}
+        - {x: 4.637571, y: -5.1809587}
+        - {x: 6.832202, y: 5.793163}
+        - {x: -15.114107, y: 25.546581}
+        - {x: -23.892632, y: 25.546581}
+        - {x: -39.255047, y: 10.182811}
+        - {x: -37.060417, y: 7.987987}
+        - {x: -34.865788, y: 12.377635}
+        - {x: -41.449677, y: 18.962109}
+        - {x: -45.83894, y: 16.767284}
+        - {x: -41.449677, y: 14.57246}
+        - {x: -34.865788, y: 21.156933}
+        - {x: -34.865788, y: 27.741405}
+        - {x: 33.167774, y: 21.156933}
+        - {x: 39.751667, y: 14.57246}
+        - {x: 44.140926, y: 16.767284}
+        - {x: 24.38925, y: 18.962109}
+        - {x: 9.026833, y: 3.5983384}
+        - {x: 6.832202, y: -5.1809587}
+        - {x: 30.973143, y: -29.324026}
+        - {x: 48.53019, y: -27.129202}
+        - {x: 55.114082, y: -33.713676}
+        - {x: 59.503345, y: -40.29815}
+        - {x: 61.697975, y: -35.9085}
+        - {x: 55.114082, y: -29.324026}
+        - {x: 24.38925, y: -29.324026}
+        - {x: 13.416095, y: -35.9085}
+      - - {x: -61.201355, y: 7.987987}
+        - {x: -63.39599, y: 5.793163}
+        - {x: -56.812096, y: -0.79131025}
+        - {x: -50.228203, y: -2.9861345}
+        - {x: -56.812096, y: 5.793163}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 645
+        width: 229
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -107.91947, y: 90}
+        - {x: -114.5, y: 77.63789}
+        - {x: -114.5, y: -34.29815}
+        - {x: -101.33558, y: -89.168755}
+        - {x: 111.54362, y: -89.168755}
+        - {x: 114.5, y: -60.63604}
+        - {x: 114.5, y: 68.8586}
+        - {x: 80.81879, y: 90}
+      - - {x: -9.161084, y: -29.9085}
+        - {x: -15.744977, y: -23.324026}
+        - {x: -24.5235, y: -25.51885}
+        - {x: -11.355715, y: -27.713675}
+        - {x: 10.590594, y: -5.765433}
+        - {x: 10.590594, y: 5.2086887}
+        - {x: -11.355715, y: 27.15693}
+        - {x: -22.328869, y: 27.15693}
+        - {x: -28.912762, y: 20.572458}
+        - {x: -31.107393, y: 20.572458}
+        - {x: -33.302025, y: 16.18281}
+        - {x: -28.912762, y: 18.377634}
+        - {x: -28.912762, y: 24.962107}
+        - {x: 34.731533, y: 24.962107}
+        - {x: 23.75838, y: 20.572458}
+        - {x: 14.9798565, y: 11.793161}
+        - {x: 10.590594, y: 5.2086887}
+        - {x: 10.590594, y: -5.765433}
+        - {x: 17.174488, y: -12.349905}
+        - {x: 19.369118, y: -25.51885}
+        - {x: 19.369118, y: -21.129202}
+        - {x: 8.395964, y: -38.687798}
+      physicsShape:
+      - - {x: -92.55706, y: 90}
+        - {x: -112.30874, y: 77.63789}
+        - {x: -112.30874, y: -86.97393}
+        - {x: 107.15436, y: -86.97393}
+        - {x: 114.5, y: -40.88262}
+        - {x: 114.5, y: 82.02754}
+        - {x: 65.45637, y: 90}
+      - - {x: -57.442963, y: -40.88262}
+        - {x: -59.637596, y: -43.077446}
+        - {x: -53.053703, y: -49.66192}
+        - {x: -50.85907, y: -49.66192}
+        - {x: -50.85907, y: -47.467094}
+        - {x: -53.053703, y: -47.467094}
+        - {x: -59.637596, y: -51.856743}
+        - {x: -55.248333, y: -54.051567}
+      - - {x: -24.5235, y: -29.9085}
+        - {x: -31.107393, y: -23.324026}
+        - {x: -31.107393, y: -25.51885}
+        - {x: -13.550345, y: -25.51885}
+        - {x: -4.771822, y: -21.129202}
+        - {x: 10.590594, y: -5.765433}
+        - {x: 10.590594, y: 5.2086887}
+        - {x: -11.355715, y: 27.15693}
+        - {x: -20.13424, y: 24.962107}
+        - {x: -26.718132, y: 18.377634}
+        - {x: -28.912762, y: 18.377634}
+        - {x: -35.496655, y: 11.793161}
+        - {x: -33.302025, y: 7.403513}
+        - {x: -31.107393, y: 9.598337}
+        - {x: -39.885918, y: 18.377634}
+        - {x: -42.080547, y: 16.18281}
+        - {x: -37.691284, y: 13.987986}
+        - {x: -31.107393, y: 20.572458}
+        - {x: -31.107393, y: 27.15693}
+        - {x: 36.926167, y: 29.351755}
+        - {x: 25.95301, y: 20.572458}
+        - {x: 12.785225, y: 5.2086887}
+        - {x: 10.590594, y: -5.765433}
+        - {x: 32.536903, y: -27.713675}
+        - {x: 52.28858, y: -27.713675}
+        - {x: 58.872475, y: -34.29815}
+        - {x: 61.067104, y: -38.687798}
+        - {x: 63.261738, y: -38.687798}
+        - {x: 63.261738, y: -36.492973}
+        - {x: 56.677845, y: -29.9085}
+        - {x: 28.147642, y: -29.9085}
+        - {x: 19.369118, y: -38.687798}
+      - - {x: -57.442963, y: 7.403513}
+        - {x: -59.637596, y: 5.2086887}
+        - {x: -53.053703, y: -1.375784}
+        - {x: -46.46981, y: -3.5706084}
+        - {x: -53.053703, y: 5.2086887}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_27
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 639
+        width: 173
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.94968, y: 31.5}
+        - {x: -86.5, y: -7.375783}
+        - {x: -86.5, y: -31.5}
+        - {x: 86.5, y: -31.5}
+        - {x: 86.5, y: -2.9861345}
+        - {x: 36.251663, y: 31.5}
+      - - {x: -9.8355875, y: -9.570607}
+        - {x: -9.8355875, y: -11.765431}
+        - {x: 1.1375673, y: -9.570607}
+      physicsShape:
+      - - {x: -31.781897, y: 29.93623}
+        - {x: -86.5, y: -16.15508}
+        - {x: -86.5, y: -31.5}
+        - {x: -1.0570636, y: -31.5}
+        - {x: -1.0570636, y: 10.182811}
+        - {x: -12.030218, y: 29.93623}
+      - - {x: 27.473139, y: 29.93623}
+        - {x: 23.083876, y: 29.93623}
+        - {x: 1.1375673, y: 7.987987}
+        - {x: 1.1375673, y: -31.5}
+        - {x: 86.5, y: -31.5}
+        - {x: 86.5, y: -18.349905}
+        - {x: 84.53354, y: -16.15508}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_28
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 639
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -32.61626}
+        - {x: -69, y: -69}
+        - {x: 68.33555, y: -69}
+        - {x: 69, y: -45.78521}
+        - {x: 69, y: 69}
+        - {x: -4.087272, y: 69}
+        - {x: -47.97989, y: 63.956005}
+      - - {x: 24.44293, y: 50.78706}
+        - {x: 22.248299, y: 48.592236}
+        - {x: 26.63756, y: 44.202587}
+      - - {x: -19.449688, y: -26.03179}
+        - {x: -21.64432, y: -34.81109}
+        - {x: -23.838951, y: -37.005913}
+        - {x: -21.64432, y: -37.005913}
+      physicsShape:
+      - - {x: 13.469775, y: 63.956005}
+        - {x: 26.63756, y: 46.39741}
+        - {x: 17.859037, y: 55.17671}
+        - {x: -28.228212, y: 55.17671}
+        - {x: -34.812107, y: 52.981884}
+        - {x: -30.422844, y: 39.81294}
+        - {x: -17.255058, y: 31.033642}
+        - {x: -17.255058, y: -39.200737}
+        - {x: -17.255058, y: -6.278371}
+        - {x: -23.838951, y: 6.890575}
+        - {x: -37.006737, y: 2.5009263}
+        - {x: -50.174522, y: -28.226614}
+        - {x: -69, y: -45.78521}
+        - {x: -69, y: -69}
+        - {x: 69, y: -69}
+        - {x: 69, y: 69}
+        - {x: 17.859037, y: 69}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_29
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 639
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.597307, y: 9.085399}
+        - {x: 37.76509, y: 55.17671}
+        - {x: 31.1812, y: 66.15083}
+        - {x: -1.7382644, y: 69}
+        - {x: -69, y: 69}
+        - {x: -69, y: -69}
+        - {x: 69, y: -69}
+        - {x: 69, y: -50.17486}
+        - {x: 31.1812, y: 9.085399}
+      - - {x: -28.073835, y: 46.39741}
+        - {x: -25.879204, y: 48.592236}
+        - {x: -28.073835, y: 50.78706}
+        - {x: -28.073835, y: 44.202587}
+        - {x: -17.100681, y: 31.033642}
+        - {x: -28.073835, y: -45.78521}
+      - - {x: 15.818783, y: -21.642141}
+        - {x: 15.818783, y: -28.226614}
+        - {x: 22.402676, y: -37.005913}
+        - {x: 18.013414, y: -34.81109}
+      physicsShape:
+      - - {x: 24.597307, y: 4.69575}
+        - {x: 15.818783, y: -4.0835466}
+        - {x: 15.818783, y: -17.252493}
+        - {x: 15.818783, y: 31.033642}
+        - {x: 31.1812, y: 48.592236}
+        - {x: 28.986568, y: 55.17671}
+        - {x: -21.489943, y: 57.371532}
+        - {x: -28.073835, y: 44.202587}
+        - {x: -32.463097, y: 46.39741}
+        - {x: -17.100681, y: 63.956005}
+        - {x: -19.295311, y: 69}
+        - {x: -69, y: 69}
+        - {x: -69, y: 59.566357}
+        - {x: -58.798668, y: 48.592236}
+        - {x: -67.577194, y: -56.75933}
+        - {x: -65.38256, y: -69}
+        - {x: 69, y: -69}
+        - {x: 69, y: -43.590385}
+        - {x: 31.1812, y: 4.69575}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 437
+        width: 154
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.362415, y: -16.231203}
+        - {x: 34.973156, y: -20.620852}
+        - {x: 39.362415, y: -16.231203}
+        - {x: 39.362415, y: 7.9118633}
+        - {x: -6.724833, y: 12.301512}
+        - {x: -17.697987, y: 75.951416}
+        - {x: -22.08725, y: 85.5}
+        - {x: -76.953026, y: 85.5}
+        - {x: -76.953026, y: -77.68629}
+        - {x: -74.75839, y: -85.5}
+        - {x: 77, y: -85.5}
+        - {x: 77, y: -22.815678}
+      physicsShape:
+      - - {x: -76.953026, y: 85.5}
+        - {x: -76.953026, y: -85.5}
+        - {x: 77, y: -85.5}
+        - {x: 77, y: 85.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_31
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 437
+        width: 154
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.791935, y: 85.5}
+        - {x: 19.402672, y: 73.75659}
+        - {x: 32.570457, y: 62.78247}
+        - {x: -28.879208, y: 10.106688}
+        - {x: -37.65773, y: -3.062258}
+        - {x: -35.4631, y: -14.03638}
+        - {x: -77, y: -16.231203}
+        - {x: -77, y: -85.5}
+        - {x: 76.46307, y: -85.5}
+        - {x: 77, y: -71.101814}
+        - {x: 77, y: -38.179447}
+        - {x: 77, y: 85.5}
+      physicsShape:
+      - - {x: -35.4631, y: 54.003174}
+        - {x: -77, y: -25.010502}
+        - {x: -77, y: -85.5}
+        - {x: 77, y: -85.5}
+        - {x: 77, y: -55.73804}
+        - {x: 77, y: 85.5}
+        - {x: 32.570457, y: 85.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 437
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.795326, y: 17.5}
+        - {x: -28.5, y: -9.646731}
+        - {x: -28.5, y: -17.5}
+        - {x: 21.150984, y: -17.5}
+        - {x: 28.5, y: -9.646731}
+        - {x: 28.5, y: -0.86743385}
+        - {x: 10.177829, y: 17.5}
+      physicsShape:
+      - - {x: -0.795326, y: 17.5}
+        - {x: -28.5, y: -11.841556}
+        - {x: -28.5, y: -17.5}
+        - {x: 25.540245, y: -17.5}
+        - {x: 27.734877, y: -11.841556}
+        - {x: 27.734877, y: 5.717039}
+        - {x: 7.9831977, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 437
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.510094, y: 18.5}
+        - {x: -26.67788, y: 5.717039}
+        - {x: -26.67788, y: -18.426027}
+        - {x: 27.5, y: -18.426027}
+        - {x: 27.5, y: -9.646731}
+        - {x: 4.0469537, y: 18.5}
+      physicsShape:
+      - - {x: -11.315463, y: 18.5}
+        - {x: -26.67788, y: -0.86743385}
+        - {x: -26.67788, y: -14.03638}
+        - {x: -17.899355, y: -18.426027}
+        - {x: 27.5, y: -18.426027}
+        - {x: 27.5, y: -9.646731}
+        - {x: 1.8523226, y: 18.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_34
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 437
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 17.5, y: 7.9118633}
+        - {x: 16.862417, y: 17.5}
+        - {x: -16.057045, y: 17.5}
+        - {x: -17.5, y: 12.301512}
+      physicsShape:
+      - - {x: -16.057045, y: -9.646731}
+        - {x: -16.057045, y: -17.5}
+        - {x: 16.862417, y: -17.5}
+        - {x: 16.862417, y: 3.5222147}
+        - {x: 12.473156, y: 16.69116}
+        - {x: 8.083895, y: 17.5}
+        - {x: -9.473153, y: 17.5}
+        - {x: -9.473153, y: 14.496336}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_35
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 437
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.560427, y: -5.2570825}
+        - {x: -14.560427, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 15.5, y: 25}
+        - {x: -12.365795, y: 25}
+        - {x: -12.365795, y: 10.106688}
+      physicsShape:
+      - - {x: -7.976534, y: 25}
+        - {x: -14.560427, y: 14.496336}
+        - {x: -14.560427, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 15.5, y: 7.9118633}
+        - {x: 15.5, y: 25}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_36
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 437
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.63421, y: 37}
+        - {x: -0.70136034, y: 37}
+        - {x: -28.5, y: -12.938968}
+        - {x: -28.5, y: -37}
+        - {x: 10.271794, y: -37}
+        - {x: 23.439579, y: -19.52344}
+        - {x: 28.5, y: 9.009275}
+        - {x: 28.5, y: 30.957518}
+      physicsShape:
+      - - {x: 12.466425, y: 37}
+        - {x: -28.5, y: -28.302738}
+        - {x: -28.5, y: -37}
+        - {x: 1.4932706, y: -37}
+        - {x: 27.828842, y: 9.009275}
+        - {x: 27.828842, y: 33.152344}
+        - {x: 19.050318, y: 37}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_37
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 437
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.8322353, y: 37}
+        - {x: -26.583914, y: 37}
+        - {x: -26.583914, y: 2.4248025}
+        - {x: -2.4429736, y: -37}
+        - {x: 27.5, y: -37}
+        - {x: 27.5, y: -19.52344}
+        - {x: -0.24834263, y: 35.347168}
+      physicsShape:
+      - - {x: -17.80539, y: 37}
+        - {x: -26.583914, y: 33.152344}
+        - {x: -26.583914, y: 15.593748}
+        - {x: -2.4429736, y: -37}
+        - {x: 27.5, y: -37}
+        - {x: 27.5, y: -23.91309}
+        - {x: -11.221498, y: 37}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 437
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.7885666, y: 37}
+        - {x: -0.795326, y: 33.152344}
+        - {x: -28.5, y: -19.52344}
+        - {x: -28.5, y: -37}
+        - {x: 5.7885666, y: -37}
+        - {x: 10.177829, y: -28.302738}
+        - {x: 28.5, y: 4.619627}
+        - {x: 28.5, y: 37}
+      - - {x: 18.956352, y: -12.938968}
+        - {x: 12.372459, y: -21.718264}
+        - {x: 12.372459, y: -37}
+        - {x: 28.5, y: -37}
+        - {x: 28.5, y: -12.938968}
+      physicsShape:
+      - - {x: 3.593936, y: 37}
+        - {x: -24.936266, y: -21.718264}
+        - {x: -24.936266, y: -37}
+        - {x: 7.9831977, y: -37}
+        - {x: 28.5, y: 15.593748}
+        - {x: 28.5, y: 33.152344}
+        - {x: 25.540245, y: 37}
+      - - {x: 23.345613, y: -17.328615}
+        - {x: 14.56709, y: -23.91309}
+        - {x: 14.56709, y: -37}
+        - {x: 28.5, y: -37}
+        - {x: 28.5, y: -21.718264}
+        - {x: 25.540245, y: -17.328615}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_39
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 437
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 10}
+        - {x: -10, y: -10}
+        - {x: 10, y: -10}
+        - {x: 10, y: -6.3544946}
+        - {x: 6.798614, y: 9.009275}
+        - {x: 4.603983, y: 10}
+      physicsShape:
+      - - {x: -8.563803, y: 9.009275}
+        - {x: -10, y: 6.814451}
+        - {x: -10, y: -10}
+        - {x: 8.993245, y: -10}
+        - {x: 8.993245, y: -8.549319}
+        - {x: 6.798614, y: 2.4248025}
+        - {x: -1.9799097, y: 9.009275}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_40
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 437
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.7047153, y: 8.5}
+        - {x: -8.899346, y: 4.619627}
+        - {x: -8.899346, y: -8.5}
+        - {x: 9, y: -8.5}
+        - {x: 9, y: 6.814451}
+        - {x: 9, y: 8.5}
+      physicsShape:
+      - - {x: -2.3154535, y: 8.5}
+        - {x: -8.899346, y: 2.4248025}
+        - {x: -8.899346, y: -8.5}
+        - {x: 9, y: -8.5}
+        - {x: 9, y: 2.4248025}
+        - {x: 9, y: 8.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_41
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 437
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -37}
+        - {x: -13.969809, y: -37}
+        - {x: -13.969809, y: -26.107914}
+        - {x: -22.748333, y: -15.133792}
+        - {x: -28.5, y: -15.133792}
+      - - {x: -28.5, y: 37}
+        - {x: -28.5, y: 6.814451}
+        - {x: -11.775178, y: -37}
+        - {x: 28.5, y: -37}
+        - {x: 28.5, y: -21.718264}
+        - {x: -9.580547, y: 37}
+      physicsShape:
+      - - {x: -28.5, y: -19.52344}
+        - {x: -28.5, y: -37}
+        - {x: -18.359072, y: -37}
+        - {x: -16.16444, y: -34.88721}
+        - {x: -16.16444, y: -28.302738}
+        - {x: -24.942965, y: -17.328615}
+      - - {x: -28.5, y: 37}
+        - {x: -28.5, y: 13.398924}
+        - {x: -11.775178, y: -37}
+        - {x: 23.338917, y: -37}
+        - {x: 23.338917, y: -23.91309}
+        - {x: -13.969809, y: 37}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_42
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 437
+        width: 51
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 65.5}
+        - {x: -25.5, y: -15.133792}
+        - {x: -19.003368, y: -65.5}
+        - {x: 24.88925, y: -65.5}
+        - {x: 25.5, y: -61.2251}
+        - {x: 25.5, y: 9.009275}
+        - {x: 25.5, y: 65.5}
+      physicsShape:
+      - - {x: -25.5, y: 65.5}
+        - {x: -25.5, y: -1.964846}
+        - {x: -16.808737, y: -65.5}
+        - {x: 24.88925, y: -65.5}
+        - {x: 25.5, y: -6.3544946}
+        - {x: 25.5, y: 65.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_43
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 437
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.691296, y: 81}
+        - {x: -48.691296, y: 30.957518}
+        - {x: -22.355726, y: -80.97852}
+        - {x: 30.315416, y: -80.97852}
+        - {x: 49, y: 15.593748}
+        - {x: 49, y: 81}
+      physicsShape:
+      - - {x: -48.691296, y: 81}
+        - {x: -48.691296, y: 24.373045}
+        - {x: -15.771833, y: -80.97852}
+        - {x: 28.120785, y: -80.97852}
+        - {x: 49, y: 52.90576}
+        - {x: 49, y: 81}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_44
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 437
+        width: 88
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.110756, y: 97.5}
+        - {x: -43.110756, y: -18.426027}
+        - {x: -36.526863, y: -97.439705}
+        - {x: 38.09059, y: -97.439705}
+        - {x: 38.09059, y: -88.66041}
+        - {x: 44, y: 14.496336}
+        - {x: 44, y: 97.5}
+      - - {x: 0.78186405, y: 73.75659}
+        - {x: 0.78186405, y: -71.101814}
+      physicsShape:
+      - - {x: 40.28522, y: 97.5}
+        - {x: -43.110756, y: 97.5}
+        - {x: -43.110756, y: -22.815678}
+        - {x: -36.526863, y: -97.439705}
+        - {x: 40.28522, y: -97.439705}
+        - {x: 42.47985, y: -0.86743385}
+        - {x: 42.47985, y: 95.704834}
+      - - {x: 2.976495, y: -84.27076}
+        - {x: -1.4127668, y: -79.88111}
+        - {x: -1.4127668, y: -84.27076}
+        - {x: 0.78186405, y: -88.66041}
+        - {x: 2.976495, y: -86.46558}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_45
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 437
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.657778, y: 36}
+        - {x: -17.657778, y: -35.984623}
+        - {x: 18.5, y: -35.984623}
+        - {x: 18.5, y: 36}
+      physicsShape:
+      - - {x: -15.463146, y: 32.05493}
+        - {x: -15.463146, y: -35.984623}
+        - {x: 18.5, y: -35.984623}
+        - {x: 18.5, y: 32.05493}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_46
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 437
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 41.5}
+        - {x: -17.5, y: -41.471684}
+        - {x: 17.5, y: -41.471684}
+        - {x: 17.5, y: 41.5}
+      physicsShape:
+      - - {x: -17.5, y: 41.5}
+        - {x: -17.5, y: -41.471684}
+        - {x: 17.5, y: -41.471684}
+        - {x: 17.5, y: 41.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 336
+        width: 132
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.81208, y: 42.5}
+        - {x: -66, y: 40.79615}
+        - {x: -66, y: -42.5}
+        - {x: 66, y: -42.5}
+        - {x: 66, y: 36.4065}
+        - {x: 50.308727, y: 42.5}
+      physicsShape:
+      - - {x: 34.946312, y: 42.5}
+        - {x: -24.308725, y: 42.5}
+        - {x: -61.61745, y: 29.822027}
+        - {x: -66, y: 25.432379}
+        - {x: -66, y: -42.5}
+        - {x: 66, y: -42.5}
+        - {x: 66, y: 29.822027}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 320
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 49.5}
+        - {x: -34, y: -48.730484}
+        - {x: 34, y: -48.730484}
+        - {x: 34, y: 49.5}
+      physicsShape:
+      - - {x: -34, y: 49.5}
+        - {x: -34, y: -48.730484}
+        - {x: 34, y: -48.730484}
+        - {x: 34, y: 47.841785}
+        - {x: 33.29529, y: 49.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 320
+        width: 132
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.355705, y: 49.5}
+        - {x: -66, y: 30.28319}
+        - {x: -66, y: -46.53566}
+        - {x: -63.88591, y: -48.730484}
+        - {x: -2.4362426, y: -48.730484}
+        - {x: 66, y: -13.613296}
+        - {x: 66, y: 49.5}
+      physicsShape:
+      - - {x: 66, y: 49.5}
+        - {x: -28.771814, y: 49.5}
+        - {x: -63.88591, y: 34.67284}
+        - {x: -63.88591, y: -44.340836}
+        - {x: -59.496647, y: -48.730484}
+        - {x: -17.798658, y: -48.730484}
+        - {x: 8.536912, y: -39.951187}
+        - {x: 66, y: -7.028823}
+        - {x: 66, y: 47.841785}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_50
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 320
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.033604, y: 46.5}
+        - {x: -52.5, y: 21.503893}
+        - {x: -52.5, y: -46.5}
+        - {x: 52.5, y: -46.5}
+        - {x: 52.5, y: 10.529772}
+        - {x: 4.442909, y: 46.5}
+      physicsShape:
+      - - {x: -41.64434, y: 46.5}
+        - {x: -46.033604, y: 45.64696}
+        - {x: -52.5, y: 14.91942}
+        - {x: -52.5, y: -46.5}
+        - {x: 52.5, y: -46.5}
+        - {x: 52.5, y: 12.724596}
+        - {x: 15.416063, y: 46.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_51
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 402
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.835594, y: 14}
+        - {x: -16.835594, y: -13.919197}
+        - {x: 17.5, y: -13.919197}
+        - {x: 17.5, y: 14}
+      physicsShape:
+      - - {x: -14.640964, y: 14}
+        - {x: -16.835594, y: 12.4186945}
+        - {x: -16.835594, y: -11.724373}
+        - {x: -14.640964, y: -13.919197}
+        - {x: 17.5, y: -13.919197}
+        - {x: 17.5, y: -11.724373}
+        - {x: 17.5, y: 10.22387}
+        - {x: 17.5, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_52
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 356
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -19.314962}
+        - {x: 16.5, y: -19.314962}
+        - {x: 16.5, y: 19.5}
+      physicsShape:
+      - - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -19.314962}
+        - {x: 16.5, y: -19.314962}
+        - {x: 16.5, y: 19.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_53
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 391
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.835594, y: 4}
+        - {x: -16.835594, y: -4}
+        - {x: 17.5, y: -4}
+        - {x: 17.5, y: 4}
+      physicsShape:
+      - - {x: -12.446333, y: 4}
+        - {x: -14.640964, y: 2.5160973}
+        - {x: -14.640964, y: -1.8735512}
+        - {x: -12.446333, y: -4}
+        - {x: 17.5, y: -4}
+        - {x: 17.5, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_54
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 320
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.604042, y: 29}
+        - {x: -28.604042, y: -28.977066}
+        - {x: 29.5, y: -28.977066}
+        - {x: 29.5, y: 21.503893}
+        - {x: 28.456362, y: 29}
+      physicsShape:
+      - - {x: 10.899315, y: 28.088366}
+        - {x: 6.510053, y: 29}
+        - {x: -28.604042, y: 29}
+        - {x: -28.604042, y: -26.782242}
+        - {x: -24.21478, y: -28.977066}
+        - {x: 10.899315, y: -28.977066}
+        - {x: 28.456362, y: -13.613296}
+        - {x: 28.456362, y: -7.028823}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_55
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 371
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.151039, y: 5.5}
+        - {x: -14.5, y: 2.269508}
+        - {x: -14.5, y: -5.5}
+        - {x: 14.5, y: -5.5}
+        - {x: 14.5, y: 2.269508}
+        - {x: 13.989902, y: 5.5}
+      physicsShape:
+      - - {x: 9.600639, y: 5.5}
+        - {x: -10.151039, y: 5.5}
+        - {x: -14.5, y: -2.1201408}
+        - {x: -12.34567, y: -5.5}
+        - {x: 14.5, y: -5.5}
+        - {x: 14.5, y: -4.3149652}
+        - {x: 14.5, y: 4.464332}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_56
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 371
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.9328985, y: 8.5}
+        - {x: -6.9328985, y: -8.5}
+        - {x: 7, y: -8.5}
+        - {x: 7, y: 8.5}
+      physicsShape:
+      - - {x: -4.7382674, y: 0.0746835}
+        - {x: -0.3490058, y: -4.3149652}
+        - {x: 4.040256, y: -4.3149652}
+        - {x: 7, y: 0.0746835}
+        - {x: 4.040256, y: 8.5}
+        - {x: -4.7382674, y: 8.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_57
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 316
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -30.78223}
+        - {x: 25.25165, y: -30.78223}
+        - {x: 26.5, y: -28.587406}
+        - {x: 26.5, y: 31}
+        - {x: -26.5, y: 31}
+      physicsShape:
+      - - {x: -25.224861, y: 28.478025}
+        - {x: -26.5, y: 26.283201}
+        - {x: -26.5, y: -24.197758}
+        - {x: -25.224861, y: -26.392582}
+        - {x: 20.862389, y: -26.392582}
+        - {x: 25.25165, y: -22.002934}
+        - {x: 25.25165, y: 24.088377}
+        - {x: 20.862389, y: 28.478025}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_58
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 320
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.473164, y: 25.5}
+        - {x: -28.5, y: 7.237535}
+        - {x: -28.5, y: -19.100357}
+        - {x: -20.473164, y: -25.5}
+        - {x: 28.5, y: -25.5}
+        - {x: 28.5, y: 25.5}
+      physicsShape:
+      - - {x: -11.694641, y: 25.5}
+        - {x: -27.057056, y: 7.237535}
+        - {x: -27.057056, y: -10.321059}
+        - {x: -16.083902, y: -25.5}
+        - {x: 28.5, y: -25.5}
+        - {x: 28.5, y: 24.79613}
+        - {x: 27.808716, y: 25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_59
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 334
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.859108, y: 17.5}
+        - {x: -24, y: 14.653071}
+        - {x: -24, y: -16.074469}
+        - {x: -21.859108, y: -17.5}
+        - {x: 24, y: -17.5}
+        - {x: 24, y: 17.5}
+      physicsShape:
+      - - {x: -24, y: -13.879644}
+        - {x: -17.469847, y: -17.5}
+        - {x: 24, y: -17.5}
+        - {x: 24, y: 17.5}
+        - {x: -24, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_60
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 336
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.7785196, y: 16.5}
+        - {x: -4.7785196, y: -16.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 5.5, y: -15.17187}
+        - {x: 5.5, y: 16.5}
+      physicsShape:
+      - - {x: -0.38925767, y: 13.360846}
+        - {x: -4.7785196, y: 11.166021}
+        - {x: -4.7785196, y: -15.17187}
+        - {x: -2.5838885, y: -16.5}
+        - {x: 5.5, y: -16.5}
+        - {x: 5.5, y: 11.166021}
+        - {x: 5.5, y: 13.360846}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_61
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 349
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.446333, y: 10}
+        - {x: -16.835594, y: 4.4125896}
+        - {x: -16.835594, y: -10}
+        - {x: 17.5, y: -10}
+        - {x: 17.5, y: 6.607414}
+        - {x: 11.694608, y: 10}
+      physicsShape:
+      - - {x: 7.3053455, y: 10}
+        - {x: 0.7214528, y: 10}
+        - {x: -3.667809, y: 8.802238}
+        - {x: -16.835594, y: -6.561532}
+        - {x: -14.640964, y: -10}
+        - {x: 17.5, y: -10}
+        - {x: 17.5, y: -4.366708}
+        - {x: 16.08387, y: 2.217765}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_62
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 349
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 10}
+        - {x: -13, y: -10}
+        - {x: 13, y: -10}
+        - {x: 13, y: 10}
+      physicsShape:
+      - - {x: -6.5503383, y: 10}
+        - {x: -13, y: 2.217765}
+        - {x: -13, y: -10}
+        - {x: 13, y: -10}
+        - {x: 13, y: -2.1718833}
+        - {x: 6.6174474, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_63
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 320
+        width: 88
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.070503, y: 15.5}
+        - {x: -43.070503, y: -14.710708}
+        - {x: 44, y: -14.710708}
+        - {x: 44, y: 15.5}
+      physicsShape:
+      - - {x: -40.87587, y: 15.5}
+        - {x: -43.070503, y: 11.627184}
+        - {x: -43.070503, y: -10.321059}
+        - {x: -40.87587, y: -14.710708}
+        - {x: 44, y: -14.710708}
+        - {x: 44, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_64
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 320
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.882553, y: 25.5}
+        - {x: -24.882553, y: -25.5}
+        - {x: 25, y: -25.5}
+        - {x: 25, y: 25.5}
+      physicsShape:
+      - - {x: -22.687922, y: 25.5}
+        - {x: -24.882553, y: 25.5}
+        - {x: -24.882553, y: -23.490005}
+        - {x: -22.687922, y: -25.5}
+        - {x: 23.399328, y: -25.5}
+        - {x: 25, y: -23.490005}
+        - {x: 25, y: 25.5}
+        - {x: 23.399328, y: 25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_65
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 320
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 25.5}
+        - {x: -25.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 25.5}
+      physicsShape:
+      - - {x: -21.164446, y: 25.5}
+        - {x: -25.5, y: 24.79613}
+        - {x: -25.5, y: -21.295181}
+        - {x: -21.164446, y: -25.5}
+        - {x: 24.922804, y: -25.5}
+        - {x: 25.5, y: -21.295181}
+        - {x: 25.5, y: 24.79613}
+        - {x: 24.922804, y: 25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_66
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 320
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25.5}
+        - {x: -25, y: -25.5}
+        - {x: 25, y: -25.5}
+        - {x: 25, y: 25.5}
+      physicsShape:
+      - - {x: -22.896011, y: 25.5}
+        - {x: -25, y: 25.5}
+        - {x: -25, y: -23.490005}
+        - {x: -22.896011, y: -25.5}
+        - {x: 23.191236, y: -25.5}
+        - {x: 25, y: -23.490005}
+        - {x: 25, y: 25.5}
+        - {x: 23.191236, y: 25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_67
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 320
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 5.5}
+        - {x: -14.5, y: -0.4443501}
+        - {x: -10.151039, y: -4.8339987}
+        - {x: 13.989902, y: -4.8339987}
+        - {x: 14.5, y: -0.4443501}
+        - {x: 14.5, y: 5.5}
+      physicsShape:
+      - - {x: -12.34567, y: 5.5}
+        - {x: -14.5, y: 5.5}
+        - {x: -12.34567, y: -0.4443501}
+        - {x: -3.5671458, y: -4.8339987}
+        - {x: 9.600639, y: -4.8339987}
+        - {x: 14.5, y: 3.9452984}
+        - {x: 14.5, y: 5.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_68
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 288
+        width: 118
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.845636, y: -25.859884}
+        - {x: -8.456375, y: -29.5}
+        - {x: 4.7114105, y: -29.5}
+        - {x: 11.295303, y: -19.275412}
+        - {x: 11.295303, y: -10.496114}
+        - {x: 11.295303, y: -28.054708}
+        - {x: 13.489934, y: -29.5}
+        - {x: 24.463089, y: -29.5}
+        - {x: 26.65772, y: -28.054708}
+        - {x: 28.85235, y: -12.690938}
+        - {x: 28.85235, y: -1.7168164}
+        - {x: 28.85235, y: -28.054708}
+        - {x: 31.046982, y: -29.5}
+        - {x: 55.187923, y: -29.5}
+        - {x: 59, y: -10.496114}
+        - {x: 59, y: 29.5}
+        - {x: -58.932884, y: 29.5}
+        - {x: -58.932884, y: -29.5}
+        - {x: -32.597317, y: -29.5}
+        - {x: -32.597317, y: -28.054708}
+        - {x: -30.402683, y: -29.5}
+        - {x: -15.040268, y: -29.5}
+      physicsShape:
+      - - {x: -58.932884, y: 29.5}
+        - {x: -58.932884, y: -14.885762}
+        - {x: -56.738255, y: -28.054708}
+        - {x: 52.99329, y: -28.054708}
+        - {x: 59, y: -3.9116406}
+        - {x: 59, y: 29.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_69
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 320
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 13.5}
+        - {x: -17.5, y: -13.5}
+        - {x: 17.5, y: -13.5}
+        - {x: 17.5, y: 13.5}
+      physicsShape:
+      - - {x: -16.03692, y: 13.5}
+        - {x: -17.5, y: 13.5}
+        - {x: -17.5, y: -11.418471}
+        - {x: -16.03692, y: -13.5}
+        - {x: 14.687913, y: -13.5}
+        - {x: 17.5, y: -9.223647}
+        - {x: 17.5, y: 12.724596}
+        - {x: 14.687913, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_70
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4235
+        width: 257
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.691273, y: 130}
+        - {x: -128.5, y: 8.865836}
+        - {x: -128.5, y: -129.4081}
+        - {x: 128.5, y: -129.4081}
+        - {x: 128.5, y: 118.60705}
+        - {x: 101.59732, y: 130}
+      - - {x: 44.536915, y: 52.76232}
+        - {x: 33.563763, y: 63.736443}
+        - {x: 24.785238, y: 61.54162}
+        - {x: 68.67786, y: 61.54162}
+        - {x: 66.48322, y: 63.736443}
+        - {x: -30.080536, y: 76.90539}
+      physicsShape:
+      - - {x: 2.644283, y: 129.58118}
+        - {x: -41.248337, y: 96.658806}
+        - {x: -36.859074, y: 76.90539}
+        - {x: -128.5, y: 0.08653909}
+        - {x: -128.5, y: -129.4081}
+        - {x: 128.5, y: -129.4081}
+        - {x: 128.5, y: 109.82775}
+        - {x: 70.67784, y: 129.58118}
+      - - {x: 31.174484, y: 43.983025}
+        - {x: 28.979855, y: 43.983025}
+        - {x: 28.979855, y: 41.7882}
+        - {x: 31.174484, y: 41.7882}
+        - {x: 37.758377, y: 48.372673}
+        - {x: 48.731533, y: 39.593376}
+        - {x: 55.315426, y: 33.008904}
+        - {x: 59.704685, y: 35.203728}
+        - {x: 37.758377, y: 37.398552}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_71
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 4234
+        width: 258
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123.28524, y: 12.255596}
+        - {x: -129, y: 12.255596}
+        - {x: -129, y: -130.40799}
+        - {x: 129, y: -130.40799}
+        - {x: 129, y: 5.6711235}
+      physicsShape:
+      - - {x: -130, y: 11.742524}
+        - {x: -130, y: -130.92105}
+        - {x: 130, y: -130.92105}
+        - {x: 130, y: 11.742524}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_72
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 4234
+        width: 258
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.083893, y: 75.9055}
+        - {x: -129, y: 42.983135}
+        - {x: -129, y: -130.40799}
+        - {x: 129, y: -130.40799}
+        - {x: 129, y: 75.9055}
+      physicsShape:
+      - - {x: -1.6778532, y: 75.392426}
+        - {x: -131, y: 18.326998}
+        - {x: -131, y: -130.92105}
+        - {x: 131, y: -130.92105}
+        - {x: 131, y: 66.61313}
+        - {x: 130, y: 73.1976}
+        - {x: 127.805374, y: 75.392426}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3975
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.10403, y: 129}
+        - {x: -129.5, y: 83.57667}
+        - {x: -129.5, y: -129}
+        - {x: 129.5, y: -129}
+        - {x: 129.5, y: 129}
+      physicsShape:
+      - - {x: -58.15772, y: 125.27833}
+        - {x: -128.38591, y: -28.35937}
+        - {x: -128.38591, y: -129}
+        - {x: 129.5, y: -129}
+        - {x: 129.5, y: 127.47315}
+        - {x: 66.93624, y: 127.47315}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_74
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3966
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.402687, y: 40}
+        - {x: -33.402687, y: -32.969788}
+        - {x: -29.013426, y: -37.359436}
+        - {x: 33.5, y: -37.359436}
+        - {x: 33.5, y: -35.16461}
+        - {x: 33.5, y: 40}
+        - {x: 33.5, y: 40}
+      physicsShape:
+      - - {x: 64.580536, y: -49.43097}
+        - {x: 64.580536, y: -128.44464}
+        - {x: 130.41946, y: -128.44464}
+        - {x: 131, y: -124.05499}
+        - {x: 131, y: -51.625793}
+        - {x: 123.83557, y: -49.43097}
+      - - {x: -130.74161, y: -126.24982}
+        - {x: -124.15772, y: -124.05499}
+        - {x: -124.15772, y: 130.54462}
+        - {x: -128.54698, y: 133.5}
+        - {x: -130.74161, y: 133.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3975
+        width: 258
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: 21.5}
+        - {x: -129, y: -21.5}
+        - {x: 129, y: -21.5}
+        - {x: 129, y: 21.5}
+      physicsShape:
+      - - {x: -129, y: -84.32739}
+        - {x: -129, y: -129.5}
+        - {x: 129, y: -129.5}
+        - {x: 129, y: -88.71704}
+        - {x: 129, y: -84.32739}
+      - - {x: -129, y: 129.5}
+        - {x: -126.90269, y: 124.180916}
+        - {x: 127.6745, y: 124.180916}
+        - {x: 129, y: 128.57057}
+        - {x: 129, y: 129.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_75
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3973
+        width: 259
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.781881, y: 15.731896}
+        - {x: -65.61409, y: 15.731896}
+        - {x: -72.19798, y: 4.757775}
+        - {x: -127.06376, y: -69.86625}
+        - {x: -129.25839, y: -74.2559}
+        - {x: -129.25839, y: -126.93169}
+        - {x: 129.5, y: -126.93169}
+        - {x: 129.5, y: -39.13871}
+        - {x: 50.701347, y: -50.11283}
+      physicsShape:
+      - - {x: -59.0302, y: 11.342247}
+        - {x: -129.25839, y: -69.86625}
+        - {x: -129.25839, y: -126.93169}
+        - {x: 129.5, y: -126.93169}
+        - {x: 129.5, y: -17.190468}
+        - {x: 9.003358, y: 11.342247}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3970
+        width: 261
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.41946, y: -48.723385}
+        - {x: -130.41946, y: -127.73706}
+        - {x: 130.5, y: -127.73706}
+        - {x: 130.5, y: -121.15259}
+        - {x: -47.02349, y: -57.50268}
+        - {x: -86.52685, y: -48.723385}
+      physicsShape:
+      - - {x: -88.72148, y: -56.40527}
+        - {x: -130.41946, y: -56.40527}
+        - {x: -130.41946, y: -131.0293}
+        - {x: -14.104027, y: -131.0293}
+        - {x: -14.104027, y: -117.86035}
+        - {x: -40.439598, y: -80.54834}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_76
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 3710
+        width: 254
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.28859, y: -88.14342}
+        - {x: -70.067116, y: -92.533066}
+        - {x: -72.26175, y: -125.45543}
+        - {x: -72.26175, y: -129.5}
+        - {x: 6.744967, y: -129.5}
+        - {x: 8.939598, y: -127.65025}
+        - {x: 8.939598, y: -92.533066}
+        - {x: 4.5503364, y: -88.14342}
+      - - {x: 63.80537, y: -88.14342}
+        - {x: 59.41611, y: -99.11754}
+        - {x: 59.41611, y: -129.5}
+        - {x: 127, y: -129.5}
+        - {x: 127, y: -88.14342}
+      - - {x: -127, y: 129.5}
+        - {x: -127, y: 25.987448}
+        - {x: 103.30873, y: 25.987448}
+        - {x: 127, y: 43.546043}
+        - {x: 127, y: 129.5}
+      physicsShape:
+      - - {x: -61.28859, y: -93.63048}
+        - {x: -63.483223, y: -98.02013}
+        - {x: -63.483223, y: -126.55284}
+        - {x: -59.09396, y: -130.5}
+        - {x: 6.744967, y: -130.5}
+        - {x: 6.744967, y: -93.63048}
+      - - {x: 63.80537, y: -98.02013}
+        - {x: 63.80537, y: -126.55284}
+        - {x: 68.19463, y: -130.5}
+        - {x: 127, y: -130.5}
+        - {x: 127, y: -93.63048}
+        - {x: 68.19463, y: -93.63048}
+      - - {x: -127, y: 130.5}
+        - {x: -127, y: 27.08486}
+        - {x: 76.97316, y: 27.08486}
+        - {x: 127, y: 44.643456}
+        - {x: 127, y: 130.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_77
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3712
+        width: 263
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.5, y: -127.84503}
+        - {x: -125.51343, y: -127.84503}
+        - {x: -125.51343, y: -86.14337}
+        - {x: -129.9027, y: -81.75372}
+        - {x: -131.5, y: -81.75372}
+      - - {x: 98.33893, y: -40.05206}
+        - {x: 14.942953, y: -40.05206}
+        - {x: -4.8087254, y: -53.221004}
+        - {x: -4.8087254, y: -127.84503}
+        - {x: 131.5, y: -127.84503}
+        - {x: 131.5, y: -57.610653}
+        - {x: 129.06377, y: -51.02618}
+      physicsShape:
+      - - {x: 30.30537, y: -42.246883}
+        - {x: -2.6140943, y: -46.63653}
+        - {x: -2.6140943, y: -127.84503}
+        - {x: 131.25839, y: -127.84503}
+        - {x: 131.25839, y: -57.610653}
+        - {x: 82.97651, y: -42.246883}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3706
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.644295, y: 50.520077}
+        - {x: -127.644295, y: -129.45552}
+        - {x: 128.5, y: -129.45552}
+        - {x: 128.5, y: -39.46772}
+        - {x: -64, y: 50.520077}
+      physicsShape:
+      - - {x: -107.89262, y: -43.85737}
+        - {x: -125.44967, y: -57.026314}
+        - {x: -125.44967, y: -120.676216}
+        - {x: -121.0604, y: -125.065865}
+        - {x: 128.5, y: -125.065865}
+        - {x: 128.5, y: -59.221138}
+        - {x: 25.979868, y: -43.85737}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3712
+        width: 263
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -131.5, y: 129}
+        - {x: -131.5, y: -128.94244}
+        - {x: 131.5, y: -128.94244}
+        - {x: 131.5, y: 44.448673}
+        - {x: 6.583893, y: 129}
+      physicsShape:
+      - - {x: -129.48323, y: 129}
+        - {x: -129.48323, y: -128.94244}
+        - {x: 131.5, y: -128.94244}
+        - {x: 131.5, y: 40.059025}
+        - {x: 4.3892617, y: 129}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3449
+        width: 259
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.5, y: -86.86194}
+        - {x: -129.5, y: -128.5636}
+        - {x: -92.46644, y: -128.5636}
+        - {x: -88.07718, y: -124.17395}
+        - {x: -88.07718, y: -91.25159}
+        - {x: -92.46644, y: -86.86194}
+      - - {x: 26.043629, y: -86.86194}
+        - {x: 26.043629, y: -128.5636}
+        - {x: 74.32551, y: -128.5636}
+        - {x: 74.32551, y: -86.86194}
+      - - {x: 91.88255, y: -91.25159}
+        - {x: 91.88255, y: -126.368774}
+        - {x: 94.07719, y: -128.5636}
+        - {x: 129.5, y: -128.5636}
+        - {x: 129.5, y: -86.86194}
+        - {x: 96.27182, y: -86.86194}
+      - - {x: -129.5, y: 129}
+        - {x: -129.5, y: 29.463747}
+        - {x: -77.10403, y: 27.268923}
+        - {x: 129.5, y: 27.268923}
+        - {x: 129.5, y: 129}
+      physicsShape:
+      - - {x: -125.3859, y: -89.05676}
+        - {x: -129.5, y: -93.44641}
+        - {x: -129.5, y: -124.17395}
+        - {x: -125.3859, y: -128.5636}
+        - {x: -94.66107, y: -128.5636}
+        - {x: -90.27181, y: -124.17395}
+        - {x: -90.27181, y: -93.44641}
+        - {x: -94.66107, y: -89.05676}
+      - - {x: 30.43289, y: -89.05676}
+        - {x: 30.43289, y: -128.5636}
+        - {x: 67.741615, y: -128.5636}
+        - {x: 67.741615, y: -89.05676}
+      - - {x: 94.07719, y: -128.5636}
+        - {x: 129.5, y: -128.5636}
+        - {x: 129.5, y: -89.05676}
+        - {x: 94.07719, y: -89.05676}
+      - - {x: -129.5, y: 129}
+        - {x: -129.5, y: 36.04822}
+        - {x: -125.3859, y: 31.658571}
+        - {x: 129.19128, y: 31.658571}
+        - {x: 129.5, y: 33.853397}
+        - {x: 129.5, y: 129}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3449
+        width: 258
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.547, y: 124.93861}
+        - {x: -128.93626, y: 122.74378}
+        - {x: -128.93626, y: -127.46619}
+        - {x: 129, y: -127.46619}
+        - {x: 129, y: 72.262825}
+        - {x: 94.9161, y: 124.93861}
+      - - {x: -21.399343, y: -2.3612044}
+        - {x: -21.399343, y: -4.556029}
+        - {x: -12.620819, y: -4.556029}
+        - {x: 2.7415977, y: 10.807741}
+        - {x: 9.32549, y: 19.587038}
+        - {x: 9.32549, y: 30.56116}
+        - {x: -12.620819, y: 52.509403}
+        - {x: -23.593973, y: 52.509403}
+        - {x: -32.372498, y: 48.119755}
+        - {x: -34.567127, y: 39.340458}
+        - {x: -27.983236, y: 48.119755}
+        - {x: 33.46643, y: 48.119755}
+        - {x: 22.493277, y: 43.730106}
+        - {x: 15.909383, y: 37.145634}
+        - {x: 9.32549, y: 28.366335}
+        - {x: 9.32549, y: 19.587038}
+        - {x: 33.46643, y: -4.556029}
+        - {x: 48.828846, y: -4.556029}
+        - {x: 48.828846, y: -2.3612044}
+        - {x: 24.687906, y: -2.3612044}
+        - {x: 0.5469666, y: -26.504272}
+        - {x: 2.7415977, y: -26.504272}
+      physicsShape:
+      - - {x: -79.55706, y: 120.54896}
+        - {x: -114.67116, y: 87.626595}
+        - {x: -116.86579, y: 67.87318}
+        - {x: -130.03357, y: -19.919798}
+        - {x: -130.03357, y: -127.46619}
+        - {x: 130.5, y: -127.46619}
+        - {x: 130.5, y: 102.990364}
+        - {x: 49.926163, y: 120.54896}
+      - - {x: -59.805386, y: -15.53015}
+        - {x: -62.000015, y: -17.724974}
+        - {x: -55.416122, y: -24.309446}
+        - {x: -53.221493, y: -24.309446}
+        - {x: -53.221493, y: -22.114622}
+        - {x: -55.416122, y: -22.114622}
+        - {x: -62.000015, y: -26.504272}
+        - {x: -57.610752, y: -28.699097}
+      - - {x: -24.69129, y: -4.556029}
+        - {x: -31.27518, y: 2.0284443}
+        - {x: -35.664444, y: -0.1663801}
+        - {x: -15.9127655, y: -2.3612044}
+        - {x: -9.328873, y: 2.0284443}
+        - {x: 6.033544, y: 19.587038}
+        - {x: 8.228175, y: 30.56116}
+        - {x: -15.9127655, y: 50.31458}
+        - {x: -22.496658, y: 50.31458}
+        - {x: -37.859074, y: 34.95081}
+        - {x: -35.664444, y: 32.755985}
+        - {x: -33.469814, y: 34.95081}
+        - {x: -40.053707, y: 41.535282}
+        - {x: -42.248337, y: 41.535282}
+        - {x: -42.248337, y: 39.340458}
+        - {x: -40.053707, y: 39.340458}
+        - {x: -33.469814, y: 45.92493}
+        - {x: -33.469814, y: 52.509403}
+        - {x: 34.563747, y: 45.92493}
+        - {x: 41.14764, y: 39.340458}
+        - {x: 43.34227, y: 39.340458}
+        - {x: 43.34227, y: 41.535282}
+        - {x: 25.785223, y: 41.535282}
+        - {x: 8.228175, y: 30.56116}
+        - {x: 8.228175, y: 19.587038}
+        - {x: 32.369114, y: -4.556029}
+        - {x: 49.926163, y: -2.3612044}
+        - {x: 56.510056, y: -8.945677}
+        - {x: 60.89932, y: -15.53015}
+        - {x: 63.09395, y: -13.335326}
+        - {x: 56.510056, y: -6.750853}
+        - {x: 25.785223, y: -6.750853}
+        - {x: 8.228175, y: -17.724974}
+      - - {x: -59.805386, y: 32.755985}
+        - {x: -62.000015, y: 30.56116}
+        - {x: -53.221493, y: 21.781862}
+        - {x: -51.02686, y: 23.976686}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_81
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3453
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.90269, y: -126.75834}
+        - {x: 127.5, y: -126.75834}
+        - {x: 127.5, y: 37.853485}
+        - {x: -126.90269, y: 37.853485}
+      - - {x: -126.90269, y: 127}
+        - {x: -126.90269, y: 90.52927}
+        - {x: -58.869125, y: 90.52927}
+        - {x: -54.479866, y: 94.918915}
+        - {x: -54.479866, y: 127}
+      - - {x: 61.835575, y: 127}
+        - {x: 61.835575, y: 94.918915}
+        - {x: 66.22484, y: 90.52927}
+        - {x: 127.5, y: 90.52927}
+        - {x: 127.5, y: 127}
+      physicsShape:
+      - - {x: -126.90269, y: 33.463837}
+        - {x: -126.90269, y: -126.75834}
+        - {x: 127.5, y: -126.75834}
+        - {x: 127.5, y: 35.65866}
+        - {x: -124.70805, y: 35.65866}
+      - - {x: -126.90269, y: 127}
+        - {x: -126.90269, y: 92.72409}
+        - {x: -61.063755, y: 92.72409}
+        - {x: -56.674496, y: 97.11374}
+        - {x: -56.674496, y: 127}
+      - - {x: 64.030205, y: 127}
+        - {x: 64.030205, y: 97.11374}
+        - {x: 68.419464, y: 92.72409}
+        - {x: 127.5, y: 92.72409}
+        - {x: 127.5, y: 127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_82
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3453
+        width: 259
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.86913, y: 127.5}
+        - {x: -128.86913, y: -127.5}
+        - {x: 129.5, y: -127.5}
+        - {x: 129.5, y: 127.5}
+      physicsShape:
+      - - {x: -124.47987, y: 130}
+        - {x: -126.6745, y: 129.32825}
+        - {x: -126.6745, y: -125.27136}
+        - {x: -122.28524, y: -129.66101}
+        - {x: 129.5, y: -129.66101}
+        - {x: 129.5, y: 130}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_5
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3452
+        width: 259
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.291954, y: 68.67828}
+        - {x: 5.453023, y: 127.5}
+        - {x: -128.41946, y: 127.5}
+        - {x: -128.41946, y: -126.66108}
+        - {x: 129.5, y: -126.66108}
+        - {x: 129.5, y: -25.699163}
+        - {x: 129.5, y: -23.50434}
+      - - {x: 58.124165, y: 127.5}
+        - {x: 60.318794, y: 123.54889}
+        - {x: 71.291954, y: 123.54889}
+        - {x: 75.68121, y: 127.5}
+        - {x: 75.68121, y: 127.5}
+      physicsShape:
+      - - {x: -128.41946, y: 127.5}
+        - {x: -128.41946, y: -126.66108}
+        - {x: 129.5, y: -126.66108}
+        - {x: 129.5, y: -19.11469}
+        - {x: 14.231546, y: 127.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_83
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3189
+        width: 258
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.41946, y: -86.77513}
+        - {x: -128.41946, y: -128.47679}
+        - {x: 5.453023, y: -128.47679}
+        - {x: 7.647654, y: -126.28197}
+        - {x: 7.647654, y: -91.16478}
+        - {x: 3.258392, y: -86.77513}
+      - - {x: -128.41946, y: 128.5}
+        - {x: -128.41946, y: 93.20046}
+        - {x: 129, y: 93.20046}
+        - {x: 129, y: 95.39529}
+        - {x: 129, y: 128.5}
+      physicsShape:
+      - - {x: -124.030205, y: -88.969955}
+        - {x: -128.41946, y: -93.359604}
+        - {x: -128.41946, y: -126.28197}
+        - {x: -126.22483, y: -128.47679}
+        - {x: 1.0637611, y: -128.47679}
+        - {x: 5.453023, y: -124.08714}
+        - {x: 5.453023, y: -93.359604}
+        - {x: 1.0637611, y: -88.969955}
+      - - {x: -128.41946, y: 128.5}
+        - {x: -128.41946, y: 95.39529}
+        - {x: 129, y: 95.39529}
+        - {x: 129, y: 99.784935}
+        - {x: 129, y: 128.5}
+        - {x: 129, y: 128.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_84
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3189
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.624159, y: 43.816914}
+        - {x: -128.16107, y: -22.027817}
+        - {x: -128.16107, y: -127.37938}
+        - {x: 128.5, y: -127.37938}
+        - {x: 128.5, y: 41.62209}
+        - {x: 102.27517, y: 43.816914}
+      - - {x: -128.16107, y: 127.5}
+        - {x: -128.16107, y: 94.297874}
+        - {x: 128.5, y: 94.297874}
+        - {x: 128.5, y: 127.5}
+      physicsShape:
+      - - {x: 3.5167809, y: 39.427265}
+        - {x: -0.872481, y: 35.037617}
+        - {x: -60.127518, y: 6.5049}
+        - {x: -64.51678, y: 2.1152513}
+        - {x: -123.77181, y: -24.222641}
+        - {x: -128.16107, y: -28.61229}
+        - {x: -128.16107, y: -127.37938}
+        - {x: 128.5, y: -127.37938}
+        - {x: 128.5, y: 37.23244}
+        - {x: 128.5, y: 39.427265}
+      - - {x: -128.16107, y: 127.5}
+        - {x: -128.16107, y: 98.68752}
+        - {x: -125.966446, y: 96.4927}
+        - {x: 128.5, y: 96.4927}
+        - {x: 128.5, y: 98.68752}
+        - {x: 128.5, y: 127.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_85
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3188
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.003353, y: 127.5}
+        - {x: -126.90269, y: 41.719345}
+        - {x: -126.90269, y: -127.28213}
+        - {x: 127.5, y: -127.28213}
+        - {x: 127.5, y: 127.5}
+      physicsShape:
+      - - {x: -43.50671, y: 127.5}
+        - {x: -126.90269, y: 72.446884}
+        - {x: -126.90269, y: -125.0873}
+        - {x: -124.70805, y: -127.28213}
+        - {x: 127.5, y: -127.28213}
+        - {x: 127.5, y: 127.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3188
+        width: 261
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.718134, y: 129.5}
+        - {x: -37.859074, y: 127.31749}
+        - {x: -37.859074, y: -129.47694}
+        - {x: 130.5, y: -129.47694}
+        - {x: 130.5, y: 129.5}
+      - - {x: -99.30874, y: 41.719345}
+        - {x: -130.03357, y: 41.719345}
+        - {x: -130.03357, y: -68.02187}
+        - {x: -92.724846, y: -68.02187}
+        - {x: -88.33559, y: -63.63222}
+        - {x: -88.33559, y: 39.52452}
+      physicsShape:
+      - - {x: -35.664444, y: 129.5}
+        - {x: -35.664444, y: -92.16494}
+        - {x: -29.080551, y: -129.47694}
+        - {x: 130.5, y: -129.47694}
+        - {x: 130.5, y: 129.5}
+      - - {x: -130.03357, y: 37.329697}
+        - {x: -130.03357, y: -65.82705}
+        - {x: -94.91948, y: -65.82705}
+        - {x: -92.724846, y: -61.437397}
+        - {x: -92.724846, y: 32.94005}
+        - {x: -97.11411, y: 37.329697}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_87
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3188
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.120804, y: -54.852924}
+        - {x: -128.5, y: -59.242573}
+        - {x: -128.5, y: -129.47694}
+        - {x: 128.5, y: -129.47694}
+        - {x: 128.5, y: -59.242573}
+        - {x: 128.09396, y: -54.852924}
+      - - {x: -128.5, y: 129.5}
+        - {x: -128.5, y: 94.39513}
+        - {x: -126.48322, y: 92.2003}
+        - {x: 128.5, y: 92.2003}
+        - {x: 128.5, y: 129.5}
+      physicsShape:
+      - - {x: -128.5, y: -63.63222}
+        - {x: -128.5, y: -125.0873}
+        - {x: -124.28859, y: -129.47694}
+        - {x: 128.5, y: -129.47694}
+        - {x: 128.5, y: -63.63222}
+      - - {x: -128.5, y: 129.5}
+        - {x: -128.5, y: 94.39513}
+        - {x: 128.5, y: 94.39513}
+        - {x: 128.5, y: 129.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2929
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.1946309, y: -28.52575}
+        - {x: -2.1946309, y: -127.29284}
+        - {x: 128.5, y: -127.29284}
+        - {x: 128.5, y: -24.1361}
+        - {x: 2.1946309, y: -24.1361}
+      - - {x: -128.5, y: 127.5}
+        - {x: -128.5, y: 92.18958}
+        - {x: -28.530203, y: 92.18958}
+        - {x: -21.94631, y: 98.774055}
+        - {x: -21.94631, y: 127.5}
+      physicsShape:
+      - - {x: 0, y: -30.720573}
+        - {x: 0, y: -125.098015}
+        - {x: 2.1946309, y: -127.29284}
+        - {x: 128.5, y: -127.29284}
+        - {x: 128.5, y: -26.330925}
+        - {x: 4.3892617, y: -26.330925}
+      - - {x: -127.2886, y: 127.5}
+        - {x: -127.2886, y: 98.774055}
+        - {x: -122.89933, y: 94.38441}
+        - {x: -30.724833, y: 94.38441}
+        - {x: -24.14094, y: 100.96888}
+        - {x: -24.14094, y: 127.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_88
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2929
+        width: 258
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.93626, y: 128.5}
+        - {x: -128.93626, y: -128.39026}
+        - {x: -78.45975, y: -128.39026}
+        - {x: 129, y: 91.09217}
+        - {x: 129, y: 128.5}
+      - - {x: -3.8422952, y: -80.10412}
+        - {x: -3.8422952, y: -128.39026}
+        - {x: 129, y: -128.39026}
+        - {x: 129, y: -25.233513}
+        - {x: 55.41274, y: -25.233513}
+      physicsShape:
+      - - {x: -127.83894, y: 130.5}
+        - {x: -130, y: 130.5}
+        - {x: -130, y: -128.0007}
+        - {x: -18.107397, y: -128.0007}
+        - {x: 130, y: 19.052532}
+        - {x: 130, y: 130.5}
+      - - {x: 38.953007, y: -24.843954}
+        - {x: -2.7449799, y: -68.74044}
+        - {x: -2.7449799, y: -128.0007}
+        - {x: 130, y: -128.0007}
+        - {x: 130, y: -121.41622}
+        - {x: 130, y: -24.843954}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_89
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2928
+        width: 255
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.15101, y: -56.96094}
+        - {x: -127.5, y: -87.688484}
+        - {x: -127.5, y: -129}
+        - {x: 127.5, y: -129}
+        - {x: 127.5, y: -56.96094}
+      - - {x: -127.5, y: 129}
+        - {x: -127.5, y: -37.207523}
+        - {x: -73.03691, y: -70.12989}
+        - {x: 111.31209, y: -70.12989}
+        - {x: 127.5, y: -63.545414}
+        - {x: 127.5, y: 129}
+      physicsShape:
+      - - {x: -127.5, y: -59.155766}
+        - {x: -127.5, y: -129}
+        - {x: 127.5, y: -129}
+        - {x: 127.5, y: -59.155766}
+      - - {x: -127.5, y: 129}
+        - {x: -127.5, y: -35.0127}
+        - {x: -33.533554, y: -67.93507}
+        - {x: 76.19799, y: -67.93507}
+        - {x: 127.5, y: -35.0127}
+        - {x: 127.5, y: 129}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_90
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2930
+        width: 258
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.06376, y: -24.233356}
+        - {x: 39.72819, y: 4.2993584}
+        - {x: 2.4194653, y: 41.61137}
+        - {x: -89.755035, y: 128}
+        - {x: -129, y: 128}
+        - {x: -129, y: -127.3901}
+        - {x: -50.25168, y: -127.3901}
+        - {x: 70.453026, y: -65.93502}
+        - {x: 70.453026, y: -28.623005}
+      - - {x: 26.560406, y: 128}
+        - {x: 26.560406, y: 67.949265}
+        - {x: 66.06376, y: 28.442425}
+        - {x: 129, y: 28.442425}
+        - {x: 129, y: 128}
+      physicsShape:
+      - - {x: 67.45302, y: 40.90352}
+        - {x: -22.526848, y: 130}
+        - {x: -131.5, y: 130}
+        - {x: -131.5, y: -130}
+        - {x: -64.22484, y: -130}
+        - {x: -59.83557, y: -125.90313}
+        - {x: 63.06376, y: -66.64287}
+        - {x: 67.45302, y: -62.253223}
+      - - {x: 27.949665, y: 130}
+        - {x: 27.949665, y: 89.18965}
+        - {x: 93.78859, y: 29.929398}
+        - {x: 126.70805, y: 29.929398}
+        - {x: 131.09732, y: 34.319046}
+        - {x: 131.09732, y: 128.69649}
+        - {x: 128.90268, y: 130}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_91
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2670
+        width: 255
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.58724, y: 126.5}
+        - {x: -127.258385, y: 51.57462}
+        - {x: -127.258385, y: -126.20615}
+        - {x: 127.5, y: -126.20615}
+        - {x: 127.5, y: 126.5}
+      - - {x: 72.453026, y: 3.2884855}
+        - {x: 65.86913, y: 9.872958}
+        - {x: 39.53356, y: 47.18497}
+        - {x: -2.1644254, y: 44.990147}
+        - {x: -50.446304, y: 25.236729}
+        - {x: -54.835567, y: 20.84708}
+        - {x: -54.835567, y: 36.21085}
+        - {x: -59.22483, y: 47.18497}
+        - {x: -70.19798, y: 55.964268}
+        - {x: -81.171135, y: 55.964268}
+        - {x: -81.171135, y: 53.769444}
+        - {x: -63.61409, y: 84.49699}
+        - {x: 74.64766, y: 75.71769}
+        - {x: 76.842285, y: -14.270109}
+        - {x: 70.25839, y: -20.854582}
+        - {x: 70.25839, y: -23.049406}
+        - {x: 72.453026, y: -23.049406}
+      physicsShape:
+      - - {x: -64.22484, y: 126.5}
+        - {x: -64.22484, y: 97.66593}
+        - {x: -59.83557, y: 93.27628}
+        - {x: -55.446312, y: 66.93839}
+        - {x: -70.80872, y: 117.41935}
+        - {x: -99.33893, y: 126.5}
+        - {x: -119.09061, y: 126.5}
+        - {x: -130, y: 51.57462}
+        - {x: -130, y: -126.20615}
+        - {x: 130, y: -126.20615}
+        - {x: 130, y: 126.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_92
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2670
+        width: 258
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.80537, y: 126.5}
+        - {x: -128.80537, y: -126.20615}
+        - {x: 129, y: -126.20615}
+        - {x: 129, y: 126.5}
+      physicsShape:
+      - - {x: -126.61074, y: 126.5}
+        - {x: -126.61074, y: -126.20615}
+        - {x: 129, y: -126.20615}
+        - {x: 129, y: 126.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_93
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2663
+        width: 256
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.83894, y: 130}
+        - {x: -127.83894, y: -129.91393}
+        - {x: 128, y: -129.91393}
+        - {x: 128, y: 130}
+      physicsShape:
+      - - {x: -126.54698, y: 130}
+        - {x: -126.54698, y: -123.32946}
+        - {x: -122.15772, y: -127.71911}
+        - {x: 129, y: -127.71911}
+        - {x: 129, y: 130}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_94
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2666
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.768456, y: -27.049494}
+        - {x: -127.77518, y: -86.30975}
+        - {x: -127.77518, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: -22.659845}
+        - {x: 63.157715, y: -22.659845}
+      - - {x: -127.77518, y: 128}
+        - {x: -127.77518, y: -11.685724}
+        - {x: -33.406044, y: -33.63397}
+        - {x: 14.875836, y: -33.63397}
+        - {x: 128, y: 87.08137}
+        - {x: 128, y: 128}
+      physicsShape:
+      - - {x: 52.476513, y: -24.562366}
+        - {x: -127.48322, y: -90.4071}
+        - {x: -127.48322, y: -127.71911}
+        - {x: 130.5, y: -127.71911}
+        - {x: 130.5, y: -24.562366}
+      - - {x: 130.5, y: 129.5}
+        - {x: -127.48322, y: 129.5}
+        - {x: -127.48322, y: -2.6141236}
+        - {x: -48.47651, y: -31.14684}
+        - {x: 2.0000021, y: -31.14684}
+        - {x: 6.389264, y: -26.75719}
+        - {x: 130.5, y: 96.15297}
+        - {x: 130.5, y: 98.34779}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2410
+        width: 262
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.617455, y: -25.157423}
+        - {x: -131, y: -69.05391}
+        - {x: -131, y: -125.5}
+        - {x: 131, y: -125.5}
+        - {x: 131, y: -38.32637}
+        - {x: 100.953026, y: -25.157423}
+      - - {x: -131, y: 125.5}
+        - {x: -131, y: 25.323536}
+        - {x: -61.449665, y: 25.323536}
+        - {x: -57.060406, y: 29.713184}
+        - {x: -57.060406, y: 125.5}
+      - - {x: -37.308727, y: 125.5}
+        - {x: -37.308727, y: 31.908009}
+        - {x: -30.724833, y: 25.323536}
+        - {x: 2.1946309, y: 25.323536}
+        - {x: 6.583893, y: 29.713184}
+        - {x: 6.583893, y: 125.5}
+      physicsShape:
+      - - {x: -9.875839, y: -28.839487}
+        - {x: -126.19128, y: -92.489395}
+        - {x: -126.19128, y: -123.216934}
+        - {x: 128, y: -123.216934}
+        - {x: 128, y: -57.372204}
+        - {x: 110.828865, y: -28.839487}
+      - - {x: -126.19128, y: 124}
+        - {x: -126.19128, y: 32.615593}
+        - {x: -121.80202, y: 28.225945}
+        - {x: -60.352352, y: 28.225945}
+        - {x: -55.96309, y: 32.615593}
+        - {x: -55.96309, y: 124}
+      - - {x: -31.82215, y: 124}
+        - {x: -31.82215, y: 34.810417}
+        - {x: -25.238256, y: 28.225945}
+        - {x: 3.2919464, y: 28.225945}
+        - {x: 7.681208, y: 32.615593}
+        - {x: 7.681208, y: 124}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_10
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2406
+        width: 258
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.93626, y: -54.39799}
+        - {x: -128.93626, y: -128.5}
+        - {x: 129, y: -128.5}
+        - {x: 129, y: -54.39799}
+      physicsShape:
+      - - {x: -129.74161, y: -123.4377}
+        - {x: -127.54698, y: -127.82735}
+        - {x: 132, y: -127.82735}
+        - {x: 132, y: -59.787796}
+        - {x: -120.96309, y: -59.787796}
+        - {x: -129.74161, y: -64.177444}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_96
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2408
+        width: 258
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: 127.5}
+        - {x: -129, y: 91.363045}
+        - {x: -126.90269, y: 89.16822}
+        - {x: 129, y: 89.16822}
+        - {x: 129, y: 91.363045}
+        - {x: 129, y: 127.5}
+      physicsShape:
+      - - {x: -129, y: 127.5}
+        - {x: -129, y: 93.55787}
+        - {x: 129, y: 93.55787}
+        - {x: 129, y: 127.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_97
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2408
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: 117.700935}
+        - {x: -128, y: -127.5}
+        - {x: 128, y: -127.5}
+        - {x: 128, y: 14.544194}
+        - {x: 95.59396, y: 117.700935}
+      - - {x: -121.6745, y: 122.09058}
+        - {x: -121.6745, y: 127.5}
+        - {x: -128, y: 127.5}
+        - {x: -128, y: 119.89576}
+      physicsShape:
+      - - {x: 54.38255, y: -62.274654}
+        - {x: 80.718124, y: -3.0144005}
+        - {x: 63.16107, y: 115.50611}
+        - {x: -101.43625, y: 115.50611}
+        - {x: -127.77182, y: 60.635506}
+        - {x: -127.77182, y: -127.5}
+        - {x: 130.5, y: -127.5}
+        - {x: 130.5, y: -64.46948}
+        - {x: 130.5, y: -62.274654}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_98
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2407
+        width: 255
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.80201, y: 129}
+        - {x: -127.419464, y: 129}
+        - {x: -127.419464, y: -129}
+        - {x: 127.5, y: -129}
+        - {x: 127.5, y: -80.833405}
+        - {x: -44.023487, y: 129}
+      - - {x: 21.815441, y: 129}
+        - {x: 21.815441, y: 110.11631}
+        - {x: 24.01007, y: 94.75253}
+        - {x: 32.788593, y: 90.362885}
+        - {x: 127.5, y: 90.362885}
+        - {x: 127.5, y: 129}
+      physicsShape:
+      - - {x: -127.419464, y: 129}
+        - {x: -127.419464, y: -129}
+        - {x: 127.5, y: -129}
+        - {x: 127.5, y: -69.85928}
+        - {x: -35.244965, y: 129}
+      - - {x: 32.788593, y: 129}
+        - {x: 28.399334, y: 127.674904}
+        - {x: 28.399334, y: 99.14218}
+        - {x: 32.788593, y: 94.75253}
+        - {x: 127.15772, y: 94.75253}
+        - {x: 127.5, y: 96.94736}
+        - {x: 127.5, y: 129}
+        - {x: 127.15772, y: 129}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_14
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2141
+        width: 258
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: -53.824234}
+        - {x: -129, y: -130.5}
+        - {x: 129, y: -130.5}
+        - {x: 129, y: -53.824234}
+      - - {x: -70.067116, y: 9.82567}
+        - {x: -70.067116, y: 7.6308455}
+        - {x: -74.456375, y: -23.096695}
+        - {x: -74.456375, y: -34.070816}
+        - {x: -72.26175, y: -36.26564}
+        - {x: -28.369127, y: -36.26564}
+        - {x: -21.785234, y: -23.096695}
+        - {x: -21.785234, y: 9.82567}
+      - - {x: 30.885908, y: 40.55321}
+        - {x: 26.496645, y: 36.163563}
+        - {x: 26.496645, y: 1.0463729}
+        - {x: 30.885908, y: -3.3432758}
+        - {x: 66, y: -3.3432758}
+        - {x: 70.38927, y: 1.0463729}
+        - {x: 70.38927, y: 36.163563}
+        - {x: 66, y: 40.55321}
+      - - {x: -39.34228, y: 106.39794}
+        - {x: -39.34228, y: 60.30663}
+        - {x: 4.5503364, y: 60.30663}
+        - {x: 6.744967, y: 62.501453}
+        - {x: 6.744967, y: 106.39794}
+      - - {x: 90.140945, y: 130.5}
+        - {x: 90.140945, y: 97.618645}
+        - {x: 94.530205, y: 93.229}
+        - {x: 129, y: 93.229}
+        - {x: 129, y: 130.5}
+      physicsShape:
+      - - {x: -124.93289, y: -62.60353}
+        - {x: -129, y: -64.798355}
+        - {x: -129, y: -128.44826}
+        - {x: 129, y: -128.44826}
+        - {x: 129, y: -62.60353}
+      - - {x: -65.67786, y: 7.6308455}
+        - {x: -65.67786, y: -31.875992}
+        - {x: -28.369127, y: -31.875992}
+        - {x: -28.369127, y: 7.6308455}
+      - - {x: 28.691277, y: 33.96874}
+        - {x: 28.691277, y: 5.4360213}
+        - {x: 30.885908, y: -1.1484514}
+        - {x: 68.19463, y: -1.1484514}
+        - {x: 68.19463, y: 33.96874}
+        - {x: 63.80537, y: 38.358387}
+        - {x: 33.08054, y: 38.358387}
+      - - {x: -34.953022, y: 102.00829}
+        - {x: -34.953022, y: 64.69627}
+        - {x: 4.5503364, y: 64.69627}
+        - {x: 4.5503364, y: 102.00829}
+      - - {x: 94.530205, y: 130.5}
+        - {x: 92.33557, y: 130.5}
+        - {x: 92.33557, y: 99.81347}
+        - {x: 96.72484, y: 95.42382}
+        - {x: 127.44967, y: 95.42382}
+        - {x: 129, y: 97.618645}
+        - {x: 129, y: 130.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_99
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2145
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.16107, y: 129.5}
+        - {x: -128.16107, y: 17.11786}
+        - {x: -97.43624, y: -4.830382}
+        - {x: 95.69128, y: -4.830382}
+        - {x: 128.5, y: 1.7540911}
+        - {x: 128.5, y: 129.5}
+      physicsShape:
+      - - {x: -128.16107, y: 129.5}
+        - {x: -128.16107, y: 21.50751}
+        - {x: -97.43624, y: -0.44073313}
+        - {x: 128.5, y: -0.44073313}
+        - {x: 128.5, y: 129.0539}
+        - {x: 128.5, y: 129.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_100
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2149
+        width: 255
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127.5, y: 126.5}
+        - {x: -127.5, y: -8.512312}
+        - {x: 126.28521, y: -8.512312}
+        - {x: 127.5, y: -6.3174877}
+        - {x: 127.5, y: 126.5}
+      physicsShape:
+      - - {x: -129.5, y: -7.4149}
+        - {x: 126.28521, y: -7.4149}
+        - {x: 129.5, y: 5.754046}
+        - {x: 129.5, y: 128}
+        - {x: -129.5, y: 128}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_101
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2146
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5, y: -126.74052}
+        - {x: 128.5, y: -126.74052}
+        - {x: 128.5, y: -87.23368}
+        - {x: -128.5, y: -87.23368}
+      - - {x: 88.234886, y: 40.066128}
+        - {x: 83.84563, y: 22.507532}
+        - {x: 83.84563, y: -36.752724}
+        - {x: 121.15435, y: -36.752724}
+        - {x: 128.5, y: -34.5579}
+        - {x: 128.5, y: 40.066128}
+      - - {x: -45.637596, y: 127.5}
+        - {x: -128.5, y: 127.5}
+        - {x: -128.5, y: -34.5579}
+        - {x: 64.09395, y: -34.5579}
+        - {x: 68.48321, y: -30.168251}
+        - {x: 68.48321, y: 44.455776}
+      physicsShape:
+      - - {x: 132, y: -87.55184}
+        - {x: -129.83893, y: -87.55184}
+        - {x: -129.83893, y: -131.44833}
+        - {x: 17.201344, y: -131.44833}
+        - {x: 126.93289, y: -127.05868}
+        - {x: 132, y: -124.86385}
+      - - {x: -129.83893, y: 131.5}
+        - {x: -129.83893, y: -30.48641}
+        - {x: 67.67786, y: -30.48641}
+        - {x: 67.67786, y: 44.137615}
+        - {x: -57.416107, y: 131.5}
+      - - {x: 98.40269, y: 39.747967}
+        - {x: 94.01343, y: 35.35832}
+        - {x: 94.01343, y: -30.48641}
+        - {x: 132, y: -30.48641}
+        - {x: 132, y: 30.96867}
+        - {x: 131.32216, y: 39.747967}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2147
+        width: 262
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.77516, y: 127.5}
+        - {x: -130.77516, y: -79.649185}
+        - {x: -115.41275, y: -127.5}
+        - {x: 131, y: -127.5}
+        - {x: 131, y: 127.5}
+      physicsShape:
+      - - {x: -128.58054, y: 128.85912}
+        - {x: -128.58054, y: -7.219986}
+        - {x: -124.19128, y: -7.219986}
+        - {x: -64.93624, y: -130}
+        - {x: 131, y: -130}
+        - {x: 131, y: 124.469475}
+        - {x: 130.38591, y: 128.85912}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1887
+        width: 257
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.28859, y: 41.15282}
+        - {x: -128.5, y: 38.957996}
+        - {x: -128.5, y: -125.653824}
+        - {x: -5.7785206, y: -125.653824}
+        - {x: 75.42282, y: -99.31593}
+        - {x: 75.42282, y: 12.620106}
+        - {x: 33.724834, y: 41.15282}
+      - - {x: 27.140944, y: -92.73146}
+        - {x: 27.140944, y: -125.653824}
+        - {x: 128.5, y: -125.653824}
+        - {x: 128.5, y: -88.34181}
+        - {x: 31.530205, y: -88.34181}
+      physicsShape:
+      - - {x: -115.218124, y: 39.639862}
+        - {x: -128.38591, y: 15.496794}
+        - {x: -128.38591, y: -127.16679}
+        - {x: -18.654364, y: -127.16679}
+        - {x: 69.130875, y: -94.24442}
+        - {x: 69.130875, y: 26.470915}
+        - {x: 7.681208, y: 39.639862}
+      - - {x: 31.82215, y: -92.0496}
+        - {x: 31.82215, y: -127.16679}
+        - {x: 130, y: -127.16679}
+        - {x: 130, y: -87.65995}
+        - {x: 36.21141, y: -87.65995}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1883
+        width: 259
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.5, y: 127.5}
+        - {x: -129.5, y: -127.45909}
+        - {x: 129.5, y: -127.45909}
+        - {x: 129.5, y: -28.691996}
+        - {x: 14.909399, y: 127.5}
+      physicsShape:
+      - - {x: -8.134226, y: 127.5}
+        - {x: -131, y: 127.5}
+        - {x: -131, y: -123.06944}
+        - {x: -126.644295, y: -127.45909}
+        - {x: 131, y: -127.45909}
+        - {x: 131, y: -28.691996}
+        - {x: 0.6442978, y: 127.140526}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_105
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1884
+        width: 255
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.09734, y: 21.691572}
+        - {x: -127.5, y: 17.301924}
+        - {x: -127.5, y: -129.7513}
+        - {x: 127.5, y: -129.7513}
+        - {x: 127.5, y: 21.691572}
+      - - {x: -84.39936, y: 107.28972}
+        - {x: -127.5, y: 102.90007}
+        - {x: -127.5, y: 26.08122}
+        - {x: -60.25842, y: 26.08122}
+        - {x: -55.869156, y: 54.613937}
+        - {x: -55.869156, y: 107.28972}
+      physicsShape:
+      - - {x: -130.4866, y: 18.98381}
+        - {x: -130.4866, y: -128.06941}
+        - {x: -7.587276, y: -132.45906}
+        - {x: 130.5, y: -132.45906}
+        - {x: 130.5, y: 18.98381}
+      - - {x: -130.4866, y: 104.581955}
+        - {x: -130.4866, y: 32.152756}
+        - {x: -69.03694, y: 32.152756}
+        - {x: -64.64768, y: 36.542404}
+        - {x: -64.64768, y: 100.19231}
+        - {x: -69.03694, y: 104.581955}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_106
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1883
+        width: 257
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5, y: 26.178612}
+        - {x: -128.5, y: -127.45909}
+        - {x: 128.5, y: -127.45909}
+        - {x: 128.5, y: 26.178612}
+      physicsShape:
+      - - {x: -131, y: -127.45909}
+        - {x: 131, y: -127.45909}
+        - {x: 131, y: 128}
+        - {x: 24.26846, y: 128}
+        - {x: -131, y: 81.04922}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_107
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1880
+        width: 261
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.41946, y: 132}
+        - {x: -130.41946, y: -131.55643}
+        - {x: 130.5, y: -131.55643}
+        - {x: 130.5, y: 132}
+      physicsShape:
+      - - {x: -130.41946, y: -129.3616}
+        - {x: 130.5, y: -129.3616}
+        - {x: 130.5, y: 132}
+        - {x: -130.41946, y: 132}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_108
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1620
+        width: 257
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.41946, y: 130}
+        - {x: -128.41946, y: -130}
+        - {x: 128.5, y: -130}
+        - {x: 128.5, y: 130}
+      physicsShape:
+      - - {x: -130.5, y: 130}
+        - {x: -130.5, y: -130}
+        - {x: 130.5, y: -130}
+        - {x: 130.5, y: 130}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_109
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1623
+        width: 256
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.436245, y: 55.895412}
+        - {x: 27.463093, y: 49.31094}
+        - {x: 25.268461, y: 29.55752}
+        - {x: -20.818789, y: 7.6092777}
+        - {x: -25.20805, y: 3.2196293}
+        - {x: -25.20805, y: -14.338965}
+        - {x: -25.20805, y: 38.33682}
+        - {x: -27.402681, y: 44.92129}
+        - {x: -49.34899, y: 113}
+        - {x: -128, y: 113}
+        - {x: -128, y: -113}
+        - {x: 128, y: -113}
+        - {x: 128, y: -34.092384}
+        - {x: 60.382557, y: 53.70059}
+      physicsShape:
+      - - {x: -126.5, y: 103.66861}
+        - {x: -126.5, y: -131.1776}
+        - {x: 126.5, y: -131.1776}
+        - {x: 126.5, y: -34.605324}
+        - {x: 13.295305, y: 103.66861}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_110
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1621
+        width: 258
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.8255, y: 128}
+        - {x: -127, y: 95.59716}
+        - {x: -129, y: 64.86962}
+        - {x: -129, y: -128}
+        - {x: 129, y: -128}
+        - {x: 129, y: 128}
+      - - {x: 94.65772, y: 115.35058}
+        - {x: 90.26846, y: 119.74023}
+        - {x: 92.4631, y: 117.5454}
+        - {x: 90.26846, y: 113.155754}
+        - {x: 94.65772, y: 108.766106}
+      - - {x: 48.570477, y: 38.53173}
+        - {x: 48.570477, y: 29.752434}
+        - {x: 46.375843, y: 31.94726}
+      physicsShape:
+      - - {x: 83.68457, y: 128}
+        - {x: 81.48994, y: 124.12988}
+        - {x: 99.04699, y: 108.766106}
+        - {x: 88.07383, y: 117.5454}
+        - {x: 37.59732, y: 117.5454}
+        - {x: 35.40269, y: 110.96093}
+        - {x: -100.66443, y: 62.6748}
+        - {x: -129, y: 14.388664}
+        - {x: -129, y: -128}
+        - {x: 129, y: -128}
+        - {x: 129, y: 128}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_111
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1624
+        width: 257
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5, y: 127.5}
+        - {x: -128.5, y: -127.4698}
+        - {x: 128.5, y: -127.4698}
+        - {x: 128.5, y: 127.5}
+      physicsShape:
+      - - {x: -128.5, y: 127.5}
+        - {x: -128.5, y: -127.4698}
+        - {x: 128.5, y: -127.4698}
+        - {x: 128.5, y: 127.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1622
+        width: 262
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3892617, y: 127.5}
+        - {x: -4.3892617, y: -127.5}
+        - {x: 131, y: -127.5}
+        - {x: 131, y: 127.5}
+      physicsShape:
+      - - {x: -4.3892617, y: 127.5}
+        - {x: -4.3892617, y: -126.17748}
+        - {x: -2.1946309, y: -127.5}
+        - {x: 129.48323, y: -127.5}
+        - {x: 131.67786, y: -126.17748}
+        - {x: 131.67786, y: 126.22731}
+        - {x: 129.48323, y: 127.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 260
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130, y: 128.5}
+        - {x: -130, y: -125.89603}
+        - {x: -128.38591, y: -128.09085}
+        - {x: 130, y: -128.09085}
+        - {x: 130, y: 128.5}
+      physicsShape:
+      - - {x: -128.38591, y: 128.5}
+        - {x: -128.38591, y: -123.7012}
+        - {x: -123.99665, y: -128.09085}
+        - {x: 130, y: -128.09085}
+        - {x: 130, y: 128.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_114
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1360
+        width: 261
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.5, y: 128.5}
+        - {x: -130.5, y: -128.09085}
+        - {x: 130.5, y: -128.09085}
+        - {x: 130.5, y: 128.5}
+      physicsShape:
+      - - {x: -130.5, y: 128.5}
+        - {x: -130.5, y: -128.09085}
+        - {x: 130.5, y: -128.09085}
+        - {x: 130.5, y: 128.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_115
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1359
+        width: 258
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129, y: 129.5}
+        - {x: -129, y: -129.5}
+        - {x: 129, y: -129.5}
+        - {x: 129, y: 129.5}
+      physicsShape:
+      - - {x: -129, y: 129.5}
+        - {x: -129, y: -129.5}
+        - {x: 129, y: -129.5}
+        - {x: 129, y: 129.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_116
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1363
+        width: 260
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -129.41946, y: 127}
+        - {x: -129.41946, y: -127}
+        - {x: 130, y: -127}
+        - {x: 130, y: 127}
+      physicsShape:
+      - - {x: 130, y: -127}
+        - {x: 130, y: 127}
+        - {x: -129.41946, y: 127}
+        - {x: -129.41946, y: -127}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_117
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1359
+        width: 260
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130, y: 129}
+        - {x: -130, y: -126.89605}
+        - {x: -127.966446, y: -129}
+        - {x: 130, y: -129}
+        - {x: 130, y: 129}
+      physicsShape:
+      - - {x: -130, y: 129}
+        - {x: -130, y: -124.701225}
+        - {x: -125.77181, y: -129}
+        - {x: 128.80537, y: -129}
+        - {x: 130, y: -124.701225}
+        - {x: 130, y: 129}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_118
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1100
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.58054, y: 129.5}
+        - {x: -128.58054, y: -129.5}
+        - {x: 129.5, y: -129.5}
+        - {x: 129.5, y: 129.5}
+      physicsShape:
+      - - {x: -126.38591, y: 126.595436}
+        - {x: -126.38591, y: -128.00418}
+        - {x: -124.19128, y: -129.5}
+        - {x: 129.5, y: -129.5}
+        - {x: 129.5, y: 129.5}
+        - {x: -121.99664, y: 129.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_119
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1099
+        width: 257
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5, y: 131.5}
+        - {x: -128.5, y: -131.19902}
+        - {x: 128.5, y: -131.19902}
+        - {x: 128.5, y: 131.5}
+      physicsShape:
+      - - {x: -128.5, y: 127.790245}
+        - {x: -128.5, y: -126.80938}
+        - {x: -124.44966, y: -131.19902}
+        - {x: 128.5, y: -131.19902}
+        - {x: 128.5, y: 131.5}
+        - {x: -124.44966, y: 131.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_120
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1100
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.55036, y: 66.23777}
+        - {x: -66.93963, y: 61.84812}
+        - {x: -66.93963, y: -69.5}
+        - {x: 69.5, y: -69.5}
+        - {x: 69.5, y: 64.042946}
+        - {x: 69.127495, y: 66.23777}
+      physicsShape:
+      - - {x: -64.744995, y: -67.64651}
+        - {x: -62.55036, y: -69.5}
+        - {x: 69.5, y: -69.5}
+        - {x: 69.5, y: 64.042946}
+        - {x: -60.355732, y: 64.042946}
+        - {x: -64.744995, y: 59.653297}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_121
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1099
+        width: 129
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 67.5}
+        - {x: -64.5, y: -67.5}
+        - {x: 64.5, y: -67.5}
+        - {x: 64.5, y: 67.5}
+        - {x: 64.2819, y: 67.5}
+      physicsShape:
+      - - {x: -63.006695, y: 67.5}
+        - {x: -64.5, y: 66.33516}
+        - {x: -64.5, y: -65.354294}
+        - {x: -63.006695, y: -67.5}
+        - {x: 62.087265, y: -67.5}
+        - {x: 64.5, y: -63.15947}
+        - {x: 64.5, y: 64.140335}
+        - {x: 62.087265, y: 67.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_122
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1099
+        width: 129
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 67}
+        - {x: -64.5, y: -66.451706}
+        - {x: 64.5, y: -66.451706}
+        - {x: 64.5, y: 67}
+      physicsShape:
+      - - {x: -62.684616, y: 67}
+        - {x: -64.5, y: 67}
+        - {x: -64.5, y: -64.25688}
+        - {x: -62.684616, y: -66.451706}
+        - {x: 64.5, y: -66.451706}
+        - {x: 64.5, y: -64.25688}
+        - {x: 64.5, y: 67}
+        - {x: 64.5, y: 67}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_123
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1103
+        width: 133
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.459785, y: 64}
+        - {x: -66.459785, y: -63.5491}
+        - {x: 66.5, y: -63.5491}
+        - {x: 66.5, y: 64}
+      physicsShape:
+      - - {x: -62.070522, y: 64}
+        - {x: -64.26515, y: 63.75071}
+        - {x: -64.26515, y: -63.5491}
+        - {x: 66.5, y: -63.5491}
+        - {x: 66.5, y: 64}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_124
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1099
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.52689, y: 67}
+        - {x: -65.52689, y: -66.451706}
+        - {x: 66, y: -66.451706}
+        - {x: 66, y: 67}
+      physicsShape:
+      - - {x: -65.52689, y: 67}
+        - {x: -65.52689, y: -64.25688}
+        - {x: -63.33226, y: -66.451706}
+        - {x: 63.956333, y: -66.451706}
+        - {x: 66, y: -62.062057}
+        - {x: 66, y: 67}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_125
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 965
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 66}
+        - {x: -67.5, y: -65.46997}
+        - {x: 66.248276, y: -65.46997}
+        - {x: 67.5, y: -63.275146}
+        - {x: 67.5, y: 66}
+      physicsShape:
+      - - {x: -67.5, y: 66}
+        - {x: -67.5, y: -61.080322}
+        - {x: -63.234947, y: -65.46997}
+        - {x: 61.859016, y: -65.46997}
+        - {x: 66.248276, y: -61.080322}
+        - {x: 66.248276, y: 66}
+        - {x: 64.05365, y: 66}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_20
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 970
+        width: 131
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 63}
+        - {x: -65.5, y: -62.664818}
+        - {x: 65.5, y: -62.664818}
+        - {x: 65.5, y: 63}
+      physicsShape:
+      - - {x: -63.362465, y: 63}
+        - {x: -65.5, y: 63}
+        - {x: -65.5, y: -62.664818}
+        - {x: 65.5, y: -62.664818}
+        - {x: 65.5, y: 63}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_126
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 828
+        width: 140
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.4262, y: 68.5}
+        - {x: -69.4262, y: -66.39089}
+        - {x: 70, y: -66.39089}
+        - {x: 70, y: 68.5}
+      physicsShape:
+      - - {x: -67.23157, y: 68.5}
+        - {x: -67.23157, y: -62.00124}
+        - {x: -65.036934, y: -64.19607}
+        - {x: 70, y: -64.19607}
+        - {x: 70, y: 68.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 965
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 64.5}
+        - {x: -64.5, y: -64.37256}
+        - {x: 64.5, y: -64.37256}
+        - {x: 64.5, y: 64.5}
+      physicsShape:
+      - - {x: -64.5, y: 64.5}
+        - {x: -64.5, y: -62.177734}
+        - {x: -62.359085, y: -64.37256}
+        - {x: 62.73488, y: -64.37256}
+        - {x: 64.5, y: -62.177734}
+        - {x: 64.5, y: 64.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_127
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 129
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 67.5}
+        - {x: -64.5, y: -65.177734}
+        - {x: -62.5839, y: -67.37256}
+        - {x: 64.5, y: -67.37256}
+        - {x: 64.5, y: -65.177734}
+        - {x: 64.5, y: 67.5}
+      physicsShape:
+      - - {x: -64.5, y: 67.5}
+        - {x: -64.5, y: -62.98291}
+        - {x: -62.5839, y: -65.177734}
+        - {x: 62.510063, y: -65.177734}
+        - {x: 64.5, y: -60.788086}
+        - {x: 64.5, y: 66.51173}
+        - {x: 64.5, y: 67.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_128
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 830
+        width: 125
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.06714, y: 69}
+        - {x: -62.06714, y: -67.68315}
+        - {x: -59.87251, y: -69}
+        - {x: 62.5, y: -69}
+        - {x: 62.5, y: 69}
+      physicsShape:
+      - - {x: -59.87251, y: 69}
+        - {x: -62.06714, y: 61.811485}
+        - {x: -62.06714, y: -63.2935}
+        - {x: -57.67788, y: -67.68315}
+        - {x: 62.5, y: -67.68315}
+        - {x: 62.5, y: 69}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_129
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 837
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.68122, y: 2.966777}
+        - {x: -65.68122, y: -65}
+        - {x: 66, y: -65}
+        - {x: 66, y: -10.202168}
+        - {x: 52.82885, y: 2.966777}
+      - - {x: -65.68122, y: 65}
+        - {x: -63.486588, y: 60.032207}
+        - {x: 65.996635, y: 60.032207}
+        - {x: 66, y: 62.22703}
+        - {x: 66, y: 65}
+      physicsShape:
+      - - {x: -61.291958, y: 0.7719528}
+        - {x: -65.68122, y: -3.6176958}
+        - {x: -65.68122, y: -65}
+        - {x: 66, y: -65}
+        - {x: 66, y: -10.202168}
+        - {x: 52.82885, y: 0.7719528}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 833
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.906044, y: 66}
+        - {x: -64.906044, y: -65.78056}
+        - {x: 65, y: -65.78056}
+        - {x: 65, y: 66}
+      physicsShape:
+      - - {x: 55.798656, y: 67}
+        - {x: -67, y: 67}
+        - {x: -67, y: -66.877975}
+        - {x: 64.57718, y: -66.877975}
+        - {x: 66.77181, y: -62.488323}
+        - {x: 66.77181, y: 60.421837}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_130
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 967
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.808735, y: 65}
+        - {x: -60.808735, y: -64.567406}
+        - {x: 61.5, y: -64.567406}
+        - {x: 61.5, y: 65}
+      physicsShape:
+      - - {x: -60.808735, y: 65}
+        - {x: -60.808735, y: -64.567406}
+        - {x: 61.5, y: -64.567406}
+        - {x: 61.5, y: 65}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_131
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 964
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.5, y: 66}
+        - {x: -64.5, y: -66}
+        - {x: 64.5, y: -66}
+        - {x: 64.5, y: 66}
+      physicsShape:
+      - - {x: -64.5, y: 66}
+        - {x: -64.5, y: -64.27517}
+        - {x: -63.033558, y: -66}
+        - {x: 62.060406, y: -66}
+        - {x: 64.5, y: -62.080345}
+        - {x: 64.5, y: 65.21947}
+        - {x: 64.255035, y: 66}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_132
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 819
+        width: 123
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: -2.9616866}
+        - {x: -61.5, y: -22.715105}
+        - {x: 61.5, y: -22.715105}
+        - {x: 61.5, y: -2.9616866}
+      physicsShape:
+      - - {x: -55.15772, y: -7.351335}
+        - {x: -55.15772, y: -13.935808}
+        - {x: -52.96309, y: -20.52028}
+        - {x: 45.795303, y: -20.52028}
+        - {x: 50.184563, y: -16.130632}
+        - {x: 50.184563, y: -7.351335}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_133
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 436
+        width: 96
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.352406, y: 84}
+        - {x: -47.352406, y: -38.082058}
+        - {x: -40.768513, y: -84}
+        - {x: 40.432835, y: -84}
+        - {x: 48, y: 16.788551}
+        - {x: 48, y: 84}
+      physicsShape:
+      - - {x: 48, y: 80.43845}
+        - {x: 48, y: 82.63328}
+        - {x: -47.352406, y: 82.63328}
+        - {x: -47.352406, y: -35.887234}
+        - {x: -40.768513, y: -84}
+        - {x: 16.291893, y: -84}
+        - {x: 20.681154, y: -79.78372}
+        - {x: 18.486525, y: -71.00442}
+        - {x: 48, y: 49.710915}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_134
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 321
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 17}
+        - {x: -20, y: -17}
+        - {x: 20, y: -17}
+        - {x: 20, y: 17}
+      physicsShape:
+      - - {x: -17.865768, y: 17}
+        - {x: -17.865768, y: -17}
+        - {x: 20, y: -17}
+        - {x: 20, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_135
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 318
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19}
+        - {x: -19.5, y: -16.710718}
+        - {x: -17.36915, y: -18.905542}
+        - {x: 15.550314, y: -18.905542}
+        - {x: 19.5, y: -14.515895}
+        - {x: 19.5, y: 19}
+        - {x: 17.744946, y: 19}
+      physicsShape:
+      - - {x: -15.174519, y: 19}
+        - {x: -19.5, y: 18.40647}
+        - {x: -19.5, y: -12.321071}
+        - {x: -15.174519, y: -16.710718}
+        - {x: 15.550314, y: -16.710718}
+        - {x: 19.5, y: -12.321071}
+        - {x: 19.5, y: 18.40647}
+        - {x: 15.550314, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_136
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 356
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 21}
+        - {x: -20.5, y: -21}
+        - {x: 20.5, y: -21}
+        - {x: 20.5, y: 21}
+      physicsShape:
+      - - {x: -13.979889, y: 17.99705}
+        - {x: -18.36915, y: 13.607402}
+        - {x: -18.36915, y: -17.120138}
+        - {x: -13.979889, y: -21}
+        - {x: 16.744944, y: -21}
+        - {x: 20.5, y: -17.120138}
+        - {x: 20.5, y: 13.607402}
+        - {x: 16.744944, y: 17.99705}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_137
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 355
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.872501, y: 19}
+        - {x: -19.872501, y: -19}
+        - {x: 20, y: -19}
+        - {x: 20, y: 19}
+        - {x: 20, y: 19}
+      physicsShape:
+      - - {x: -13.288609, y: 19}
+        - {x: -17.67787, y: 18.094473}
+        - {x: -17.67787, y: -12.633066}
+        - {x: -13.288609, y: -17.022715}
+        - {x: 17.436224, y: -17.022715}
+        - {x: 20, y: -12.633066}
+        - {x: 20, y: 18.094473}
+        - {x: 17.436224, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_138
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 323
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.775185, y: 16}
+        - {x: -18.775185, y: -16}
+        - {x: 19.5, y: -16}
+        - {x: 19.5, y: 16}
+      physicsShape:
+      - - {x: -14.385923, y: 16}
+        - {x: -16.580555, y: 14.627183}
+        - {x: -16.580555, y: -16}
+        - {x: 19.5, y: -16}
+        - {x: 19.5, y: 14.627183}
+        - {x: 19.5, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: marblezone_139
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3191
+        width: 79
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.439594, y: 15.5}
+        - {x: -38.439594, y: -14.540978}
+        - {x: 39.5, y: -14.540978}
+        - {x: 39.5, y: 15.5}
+      physicsShape:
+      - - {x: -38.439594, y: 15.5}
+        - {x: -38.439594, y: -14.540978}
+        - {x: 39.5, y: -14.540978}
+        - {x: 39.5, y: 15.5}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

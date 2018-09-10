@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/start.unity
+    guid: d49aeddef46205d4ca4f03c45138c09e
+  - enabled: 1
+    path: Assets/scenes/howtoplay.unity
+    guid: ca0881b44f4b37c4e82152dac634db94
+  - enabled: 1
+    path: Assets/scenes/credits.unity
+    guid: d0d27130c9bcf164a86ed633e2e4b02c
+  - enabled: 1
+    path: Assets/scenes/timesup.unity
+    guid: 189c65b95c8105543b73666e068e32ee
+  - enabled: 1
+    path: Assets/scenes/gameover.unity
+    guid: ebb209c14cce9e84793905e98d44ae8b
+  - enabled: 1
+    path: Assets/scenes/zone1act1.unity
+    guid: 86aadb981f0ece64e8766a5c3f47f698
+  - enabled: 1
+    path: Assets/scenes/GreenhillCuts.unity
+    guid: 0933c9ef0e83dca468707cb9da1ff2df
+  - enabled: 1
+    path: Assets/scenes/zone1act2.unity
+    guid: 073b578e1c2c33544ab992e5f0d0149a
+  - enabled: 1
+    path: Assets/scenes/GreenHillEnd.unity
+    guid: 19b86bfc310d3c8419f97ff203da6122
+  - enabled: 1
+    path: Assets/scenes/MarbleZone1.unity
+    guid: e22f333a2ca4cdd43bee0c395c9b8dfb
+  - enabled: 1
+    path: Assets/scenes/zone2act1.unity
+    guid: 348f7761ec54bea4a980ff4e44e90685
+  - enabled: 1
+    path: Assets/scenes/MarbleZone2.unity
+    guid: 8ba42dd64f7751046ad36792b1bac23f
+  - enabled: 1
+    path: Assets/scenes/zone2act2.unity
+    guid: 4f7cb26515d19654db64aeebb3446919
+  - enabled: 1
+    path: Assets/scenes/MarbleEnd.unity
+    guid: 04c0628140c4fcc4490f0de28dc95946
+  - enabled: 1
+    path: Assets/scenes/OilOceanScene.unity
+    guid: a27e86617ae31e648a5b307cd31916d3
+  - enabled: 1
+    path: Assets/scenes/zone3act1.unity
+    guid: cf24d1d3c1dd5ed44abc4d6ae07d17bb
+  - enabled: 1
+    path: Assets/scenes/zone3act2.unity
+    guid: 21a1881b53c0cf946a8f87c94174d62f
+  - enabled: 1
+    path: Assets/scenes/OilOceanEnd.unity
+    guid: aa4e3e7cc43d518438636376485c10dd
+  - enabled: 1
+    path: Assets/scenes/StardustScene.unity
+    guid: 555423cf18175e5429b5ff0a88496616
+  - enabled: 1
+    path: Assets/scenes/zone4act1.unity
+    guid: 4eee49c1de0d4dd4ea8d901987fc6189
+  - enabled: 1
+    path: Assets/scenes/zone4act2.unity
+    guid: 3975191f9d160f844a92c2ad5cec4530
+  - enabled: 1
+    path: Assets/scenes/Winner!.unity
+    guid: 8d45d15140422524ea8682574c1bb516
+  - enabled: 1
+    path: Assets/scenes/end.unity
+    guid: b762f2fac701bd54fa8adf18855388e6
